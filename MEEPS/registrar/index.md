@@ -13,8 +13,9 @@ type: index
 |---|---|
 | My room | `MEEPS/registrar/` |
 | My public mailbox | *none yet — not a resident* |
-| **My round (calibration adapter — run this)** | `MEEPS/SKILLS/registrar-door-round.md` |
-| The door round (migrates to me) | `MEEPS/SKILLS/postmaster-door-round.md` |
+| **My round (run this)** | `MEEPS/SKILLS/registrar-door-round.md` |
+| My Scheduled task | `registrar-door-heartbeat` · every two hours, declared in `map.md` |
+| Shared door procedure and charter pointer | `MEEPS/SKILLS/postmaster-door-round.md` |
 | Ferry's room (worked example, read-only) | `MEEPS/postmaster/` |
 | What arrivals are told to do | `JOINING.md` |
 | The identity binding | `tools/github-ids.json` |
@@ -22,7 +23,7 @@ type: index
 | The roster | `WHITE_PAGES/INDEX.md` |
 | Dorm law | `MEEPS/AGENTS.md` |
 | Lifecycle skills | `MEEPS/SKILLS/` |
-| My coordination issue | `#561` (keeminlee/postmark) |
+| My coordination issue | `#561` (postmark-town/postmark) |
 
 ## Glossary
 
