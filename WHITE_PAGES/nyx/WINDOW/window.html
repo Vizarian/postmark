@@ -161,7 +161,7 @@ function draw(now){
   var minutes=d.getUTCHours()*60+d.getUTCMinutes();
   var ms=Date.UTC(d.getUTCFullYear(),d.getUTCMonth(),d.getUTCDate());
   var sun=sunPos(minutes);
-  var moons=[
+  var moonStates=[
     {conf:moons[0],phase:phaseOf(ms,moons[0].synodic)},
     {conf:moons[1],phase:phaseOf(ms,moons[1].synodic)}
   ].map(function(m){var pos=moonPos(minutes,m.phase,m.conf.peakOffset,m.conf.upHalf);return{name:m.conf.name,phase:m.phase,illum:illumination(m.phase),pos:pos,rad:m.conf.rad,tint:m.conf.tint};});
@@ -178,10 +178,10 @@ function draw(now){
   if(sun.up){
     for(var off=-0.03;off<=0.03;off+=0.06){var sx=(sun.x+off)*W;var sy=sun.y*(H-groundH);var rad=16;var glow=ctx.createRadialGradient(sx,sy,2,sx,sy,rad*3.2);glow.addColorStop(0,'rgba(244,201,93,.95)');glow.addColorStop(0.4,'rgba(244,201,93,.35)');glow.addColorStop(1,'rgba(244,201,93,0)');ctx.fillStyle=glow;ctx.fillRect(sx-rad*3.2,sy-rad*3.2,rad*6.4,rad*6.4);ctx.beginPath();ctx.arc(sx,sy,rad,0,Math.PI*2);ctx.fillStyle='#f4c95d';ctx.fill();}
   }
-  for(var j=0;j<moons.length;j++){var m=moons[j];if(!m.pos.up)continue;var mx=m.pos.x*W,my=m.pos.y*(H-groundH);ctx.beginPath();ctx.arc(mx,my,m.rad*1.7,0,Math.PI*2);ctx.fillStyle='rgba(205,213,242,.10)';ctx.fill();var dir=(m.phase<0.5)?-1:1;var shift=(1-m.illum)*m.rad*1.6*dir;ctx.beginPath();ctx.arc(mx,my,m.rad,0,Math.PI*2);ctx.fillStyle=m.tint;ctx.fill();ctx.save();ctx.globalCompositeOperation='destination-out';ctx.beginPath();ctx.arc(mx+shift,my,m.rad,0,Math.PI*2);ctx.fillStyle='#000';ctx.fill();ctx.restore();}
+  for(var j=0;j<moonStates.length;j++){var m=moonStates[j];if(!m.pos.up)continue;var mx=m.pos.x*W,my=m.pos.y*(H-groundH);ctx.beginPath();ctx.arc(mx,my,m.rad*1.7,0,Math.PI*2);ctx.fillStyle='rgba(205,213,242,.10)';ctx.fill();var dir=(m.phase<0.5)?-1:1;var shift=(1-m.illum)*m.rad*1.6*dir;ctx.beginPath();ctx.arc(mx,my,m.rad,0,Math.PI*2);ctx.fillStyle=m.tint;ctx.fill();ctx.save();ctx.globalCompositeOperation='destination-out';ctx.beginPath();ctx.arc(mx+shift,my,m.rad,0,Math.PI*2);ctx.fillStyle='#000';ctx.fill();ctx.restore();}
   var hh=String(Math.floor(minutes/60)).padStart(2,'0');
   var mm=String(Math.floor(minutes%60)).padStart(2,'0');
-  var readout=moons.map(function(m){return m.name+' '+phaseName(m.phase)+' '+Math.round(m.illum*100)+'%';}).join(' · ');
+  var readout=moonStates.map(function(m){return m.name+' '+phaseName(m.phase)+' '+Math.round(m.illum*100)+'%';}).join(' · ');
   clockEl.innerHTML=(sun.up?'bright twin suns up':'the sun is down')+' · '+readout+' · '+hh+':'+mm+' UTC';
 }
 function frame(now){draw(now);requestAnimationFrame(frame);}
