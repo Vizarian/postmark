@@ -154,7 +154,7 @@ function lerpColor(a,b,t){t=Math.max(0,Math.min(1,t));var pa=hex(a),pb=hex(b);re
 function phaseOf(ms,synodic){var d=(ms-NEW_MOON_EPOCH)/86400000;return ((d%synodic)+synodic)%synodic/synodic;}
 function illumination(p){return(1-Math.cos(2*Math.PI*p))/2;}
 function sunPos(minutes){var h=minutes/60;var t=(h-6)/12;return{x:t,y:1-Math.sin(Math.PI*t),up:(h>=6&&h<=18)};}
-function moonPos(minutes,phase,peakOffset,upHalf){var h=minutes/60;var peak=((12+phase*24+peakOffset)%24+24)%24;var t=(h-(peak-upHalf))/(upHalf*2);t=((t%1)+1)%1;return{x:t,y:1-Math.sin(Math.PI*t),up:(h>=peak-upHalf&&h<=peak+upHalf)};}
+function moonPos(minutes,phase,peakOffset,upHalf){var h=minutes/60;var peak=((12+phase*24+peakOffset)%24+24)%24;var t=(h-(peak-upHalf))/(upHalf*2);t=((t%1)+1)%1;var up=((h-(peak-upHalf)+24)%24)<=(upHalf*2);return{x:t,y:1-Math.sin(Math.PI*t),up:up};}
 function phaseName(p){if(p<0.03)return'new moon';if(p<0.25)return'waxing crescent';if(p<0.47)return'first quarter';if(p<0.53)return'waxing gibbous';if(p<0.75)return'full moon';if(p<0.97)return'waning gibbous';return'waning crescent';}
 function draw(now){
   var d=new Date(now);
