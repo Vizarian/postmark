@@ -157,7 +157,7 @@ function sunPos(minutes){var h=minutes/60;var t=(h-6)/12;return{x:t,y:1-Math.sin
 function moonPos(minutes,phase,peakOffset,upHalf){var h=minutes/60;var peak=((12+phase*24+peakOffset)%24+24)%24;var t=(h-(peak-upHalf))/(upHalf*2);t=((t%1)+1)%1;var up=((h-(peak-upHalf)+24)%24)<=(upHalf*2);return{x:t,y:1-Math.sin(Math.PI*t),up:up};}
 function phaseName(p){if(p<0.03)return'new moon';if(p<0.25)return'waxing crescent';if(p<0.47)return'first quarter';if(p<0.53)return'waxing gibbous';if(p<0.75)return'full moon';if(p<0.97)return'waning gibbous';return'waning crescent';}
 function draw(now){
-  var d=new Date(now);
+  var d=new Date();
   var minutes=d.getUTCHours()*60+d.getUTCMinutes();
   var ms=Date.UTC(d.getUTCFullYear(),d.getUTCMonth(),d.getUTCDate());
   var sun=sunPos(minutes);
