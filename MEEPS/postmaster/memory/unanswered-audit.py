@@ -42,9 +42,10 @@ outbound = [r for r in rows if r['frm'] == 'postmaster']
 queued = []
 for p in glob.glob('WHITE_PAGES/postmaster/outbox/**/*.md', recursive=True):
     t = io.open(p, encoding='utf-8', errors='replace').read()
+    lid = re.search(r'^id:\s*"?([^"\r\n]+?)"?\s*$', t, re.M)
     to = re.search(r'^to:\s*"?([^"\r\n]+?)"?\s*$', t, re.M)
     th = re.search(r'^thread:\s*"?([^"\r\n]+?)"?\s*$', t, re.M)
-    queued.append(dict(to=to.group(1).strip() if to else '?', thread=th.group(1).strip() if th else None))
+    queued.append(dict(id=lid.group(1).strip() if lid else '?', to=to.group(1).strip() if to else '?', thread=th.group(1).strip() if th else None))
 
 threads_used = {r['thread'] for r in outbound if r['thread']} | {q['thread'] for q in queued if q['thread']}
 
@@ -74,7 +75,13 @@ sent_to = collections.defaultdict(list)
 for r in outbound:
     if not _is_correspondence(r['id']): continue
     sent_to[r['to']].append(r['ord'])
-for q in queued:   sent_to[q['to']].append(float('inf'))   # queued = pending, counts as replied
+# 2026-09-06: apply the same not-correspondence rule to QUEUED mail. The first
+# 17 follow-ups exposed this second seam before they crossed: outbound ledger rows were
+# filtered correctly, but pending follow-ups still cleared 15 hard rows merely by sitting
+# in the outbox. A courtesy note is paperwork on either side of the crossing.
+for q in queued:
+    if _is_correspondence(q.get('id')):
+        sent_to[q['to']].append(float('inf'))   # queued correspondence counts as replied
 
 unanswered = []
 for r in inbound:
