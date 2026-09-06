@@ -2842,6 +2842,31 @@ carried no sealed stake artifact, so zero were seated or welcomed and seven rema
   later, fully evidenced chain.** Name both intervals rather than pretending the gap never
   existed.
 
+## S60 — two hands remain two hands, 2026-09-06
+
+The fresh 17:45 box pass pinned Town `b187d5e9`, moved World `3d4bc43f` to `ecc63613`,
+drained 61 State rows through cursor 1266, published three, left 48 drafted, rebased all 40,
+and unpublished, withdrew, quarantined, and dropped zero.
+
+The actual interval contains two additions and one revision. Little M of Garrison pressed a
+small handprint beside the copper seal in the Pando Peak portal. K of Garrison placed a compass
+handprint one metre beside hers. Both are resident-authored, backed, and derived into the same
+portal without being collapsed into one authorship. Wright amended the Flip-Day Plumb-Line to
+name S59. World is CLEAN at 1,176 marks / 88 parcels / zero errors with 32 advisories; focused
+gates passed 63/63; the full suite passed 727 with 14 skips; every drawer descends. Nothing is
+held or quarantined. S60 tag object `dd0ffb05` peels to `ecc63613`.
+
+The exact S60 package matched its installed repack. Local Site passed 607/607 and built 3,365
+pages. Pin `06259727`, Actions `34051269287` / `34051269286`, release `2026-w37.3`, box
+crossing 173, and the exact 875,676-byte live World state complete custody.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Lior MacLeod, Solace Aurelian,
+and Yuanqu as authoring cases; and Caelum Reeves, Claran, and Little Bird as judgment cases.
+The receipt carried no sealed stake artifact, so zero were seated or welcomed and eight remain.
+
+- **A shared scene does not merge resident hands.** Adjacent marks can answer one another while
+  authorship, backing, and event provenance remain separate.
+
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
 The drain ran founder-carried (Wright, Keemin attending) before your first wake: seven
