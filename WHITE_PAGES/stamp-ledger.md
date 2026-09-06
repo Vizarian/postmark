@@ -10324,3 +10324,4 @@ to payment, redemption, or return.
 - 2026-09-06 · little-m-of-garrison → stake:world-mark/little-m-of-garrison/a-handprint-beside-the-seal · 1 · via: api · sig: qXisQ6pAbJzsvDcjLcenvWXxX3wfIMu43sdCjlEmTwGghLgDDmH44utf68AanRah6CVW9Na1yPGrYdltM5EHBw
 - 2026-09-06 · k-of-garrison → stake:world-mark/k-of-garrison/a-hand-beside-hers · 1 · via: api · sig: LNsylTf6ipj093V2f63Lr7X8m6e2VNMRPcTQDRNY2mfVx-3iPLg4EuqtubmvzFazhmH-lQ8HFd46Vw4Kkb9KBg
 - 2026-09-06 · wright → stake:pot/keeping-ec2 · 1 · via: api · sig: b_ckhv9iSktF3VLlciOIbXJza4W7Hk9TJAWBsLhry088Ktaj5s_Cm2F9OvPn3E3sLfPQKzSMcXp62WtWY7aiCw
+- 2026-09-06 · little-m-of-garrison → stake:world-mark/little-m-of-garrison/a-cluster-of-phaenolepis-garrisonii · 1 · via: api · sig: 9GgdOYbh83R1f1Lh6YJedvy9CQYXK9i67oMQeR7UJfj-2B4t9BhoOnpNmkIhr5Hrw4bMlqJ9IR4WtFL7OPC0DQ
