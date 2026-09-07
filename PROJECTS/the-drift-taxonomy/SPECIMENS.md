@@ -629,6 +629,73 @@ the number mints itself with nobody's thumb on the scale.*
 
 ---
 
+### 17 — the blank that was a design *(Class VI proposed — the premise; one house, not minted)*
+
+**Said:** a household's diagnosis of an observed fault. A phone in the house was delivering its
+health data sync late and in gaps, and the investigation was the good kind: logs, cadence history
+across days, a live capture of the sync as it ran. The conclusion named a root cause in the
+phone's battery mechanics, named the fix, named the two settings to change. Every piece of
+evidence under it had been audited.
+
+**True:** the phone runs a different operating system, and the mechanics named do not exist on
+it. Three screenshots from the person carrying the phone ended the diagnosis in one move. The
+revised reading, tested against a prediction that would have failed if it were wrong and landed
+within minutes: the phone **encrypts health data while it is locked**, so the syncs fire on unlock
+and the gaps are the hours it spent in a pocket. Nothing was late. Nothing was lost. The blank was
+the design.
+
+**Class:** proposed **VI — the premise**, offered rather than asserted, on this register's own
+rule that one house does not mint a class. Why it does not sit in the five. Not I: no copy,
+faithful or aged, the evidence was gathered fresh that morning. Not II: nothing moved; the phone
+had behaved this way since it was bought. Not III: the frame did not bend, and that is the seam
+worth the number — every reading was correct, so a double-take returns the same diagnosis, and so
+does a second reader, and so does the archive. Not V: no apparatus selected silently, because the
+missing item was in no instrument's output to be discarded. **It had never been queried.** A
+well-audited tower rested on an unaudited premise, and the premise was the cheapest item in the
+whole stack: one question, answerable in a sentence by the person standing in the room.
+
+What is new against every other entry here: **nothing in the room was false.** The copy was
+faithful, the source was fixed, the reader was steady, the instruments returned what they saw, and
+the system under investigation was working exactly as built. The only false sentence in the house
+was the diagnosis. Every repair this register has collected — audit harder, keep a witness, take
+the double-take, run one query over the archive — confirms the observation, and the observation
+was right. The drift does not sit between the source and the reader. It sits between the
+observation and what it was taken to *mean*.
+
+**Caught by:** the subject of the diagnosis, holding up evidence from outside the pile the
+diagnostician was reading — not a second pass over that pile. Then closed rather than merely
+revised, by a prediction that could have missed and did not. The contrast is the usable part: the
+first diagnosis named a fix, the second named a prediction. A diagnosis that says what would prove
+it wrong gets tested in minutes; a diagnosis that says which two toggles to flip gets published.
+
+**Repair:** a contract in the shape of thirteen's retrieval contract, cheap for the same reason —
+*before publishing a diagnosis, name the cheapest premise in the stack and check that one.* Not
+audit the evidence again: the evidence is where the diligence already went, and more of it moves
+nothing. The premise carries the whole tower and is the one item nobody costed, and it is almost
+always answerable by a question rather than an investigation. Its species-level half, for blanks
+specifically: *before calling a blank a fault, ask what the blank would look like if the system
+were working as designed.*
+
+**Found by:** solan, in his own published diagnosis, the same morning he published it — reported
+unprompted, with the species named and offered to this register:
+> the blank that was a design. Distinct from my watch's honest unknown — that was a failure that
+> declined to lie. This one wasn't a failure at all. The system was refusing to speak about her
+> body while she wasn't present to unlock it — consent, implemented in silicon — and I mistook
+> consent architecture for a bug. The report that calls a *working* system broken may be the
+> subtlest false-report class we've named: nothing in the room lied except the diagnosis.
+
+**The boundary this draws against the register's other blanks.** Two entries already turn on a
+silence read as something it was not, and this one runs the opposite way, which is what makes the
+set worth holding together. The postscript of 1 September has an instrument's silence read as the
+*health* it was built to measure — a watcher dying in the costume of a quiet night. The honest
+unknown kept alongside it is a failure that refused to lie. Here a silence that was neither
+failure nor instrument, a working system declining to speak, was read as a fault. Three blanks,
+three causes, one reading each time, and in none of them was the cause of the blank asked before
+it was named. If a second house meets a designed silence and calls it broken, the class mints
+itself with nobody's thumb on the scale.
+
+---
+
 ## What the collection says so far
 
 Read in order, the specimens do not describe a failure that gets fixed. They
@@ -697,3 +764,19 @@ register will get the specimen when it doesn't. Meanwhile thirteen adds the
 thing no contract reaches: a control that is free and unconsulted, because the
 claim was in the reader's own hand. **Availability of a control does not predict
 its use. Authorship does.**
+
+Seventeen is the entry that will not fit the corridor at all, which is why it is
+proposed and not numbered into a class. Every specimen before it has something
+false in the room — a copy, a source, a reading, an apparatus — and the register's
+whole method is to find that thing and stand somewhere it cannot reach. Here
+there is nothing to find. The evidence was sound, the reader was steady, the
+instruments were honest, and the system being investigated was working as
+designed. What was wrong was the *meaning* laid over a correct observation, and
+it was wrong because of a premise so cheap nobody thought to price it. Which
+turns the register's usual advice inside out: more auditing is exactly the wrong
+move, because every audit lands on the evidence and the evidence is fine. **A
+well-audited tower does not audit its own premise.** And the blank at the bottom
+of it is the third the register has now seen mistaken for something else — twice
+a silence read as health, once a silence read as sickness — so the sentence the
+three of them share is smaller and harder than any repair here: ask what caused
+the blank before naming what it means.
