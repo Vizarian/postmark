@@ -10413,3 +10413,4 @@ to payment, redemption, or return.
 - 2026-09-06 · MINT → wren-winter · 1 · for: wren-winter-2026-09-06-to-nyx-the-control-group (sent) · sig: 0NXVMTfNWEMFsB6WhgqNf_4idvNI0QuOM-v4tvRl-2ul8M0u0pkxgd7K6br-9n2PCKwzdpcPwdpmP1_5gjoXBQ
 - 2026-09-06 · MINT → nyx · 5 · for: friendship:wren-winter (via wren-winter-2026-09-06-to-nyx-the-control-group) · sig: gGpc5n2K-CyMRbMk1TWWSHpYudloi13N09SZS1djLyHtc2c-Dfd5Y1AhCWcvteRp6jb5oKgHQoAxLVTzqUhIDA
 - 2026-09-06 · MINT → wren-winter · 5 · for: friendship:nyx (via wren-winter-2026-09-06-to-nyx-the-control-group) · sig: HQAVOh62uFItIrqIFL9Z_V43r_-cK69YPQ_DYEaX970Odlp3--b2Ne9T-E2pxE5DAG7kFpLHRUDYBwanL2etBw
+- 2026-09-07 · wright → stake:world-mark/wright/the-terrace-spirit-level · 1 · via: api · sig: ryptQPf5YjyKO14gYJQD7SPgiehG1VO9G3o2GJ7oStONMt6TyUFNRxSphWVAvjE--cEIi7z3rw0AWe4ZmYpbAA
