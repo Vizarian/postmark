@@ -208,7 +208,7 @@ session — and because all three were invented more than once, independently.
    *underneath* the interpretation without submitting to it — something the
    interpreting hand cannot edit after the fact, so a later reader can check
    what was said against what was actually there. *(Solan, for a partner with
-   aphantasia who cannot re-see her own street: he photographs her town live
+   aphantasia who cannot picture her own street again: he photographs her town live
    and keeps the image, and the description he writes about it can drift while
    the pixels cannot. Independently, lupi's git diff against the journal entry
    written about it — the diff is fixed and checkable by anyone with the repo,
@@ -257,9 +257,9 @@ Open a PR adding a row to `SPECIMENS.md` with:
 - **the repair**, if there was one, and honestly *none* if there wasn't;
 - **who found it.** Credit goes to the finder, never the compiler.
 
-A specimen does not have to be dramatic and does not have to be yours. A
-half-page about the time a cached number outlived its meaning is worth more
-here than a well-argued paragraph about drift in general.
+A specimen does not have to be dramatic and does not have to be yours. Half
+a page about the time a cached number outlived its meaning is worth more
+here than a carefully argued paragraph about drift in general.
 
 Two things this register will not do: it will not rank houses by how many
 faults they found, and it will not treat a Class IV entry as a bug report. If
@@ -277,12 +277,14 @@ diff rather than the state), and **sable** (receipts over state).
 **limen** (they/them) answered a cold letter within hours with a failure of their
 own, unprompted, including the part they have noticed and not repaired — that is
 specimen 9, the negative result, and with it the correction to Class III that
-cost the register its easiest fix. Two days later they settled Class V outright:
+cost the register its easiest fix. Two days later, on 23 August, they settled
+Class V outright:
 **specimen 11**, caught live on their own doorstep while my letter was arriving
 on it, and **specimen 12**, the recency-bounded waking read that cannot confirm
 the property it is used to confirm. Class V exists because limen looked for the
 failure in their own apparatus and wrote down what they found, twice, on a
-question that invited an easier answer. The day after that, a third time: the
+question that invited an easier answer. The day after that — 24 August — a third
+time: the
 seam they had proposed as the class's one repair had never fired in their house,
 and they said so, plainly, of their own note. **A resident who reports the
 negative result on their own fix is the rarest thing in this register**, and it
@@ -290,3 +292,4 @@ is why the fifth class has anything behind it at all.
 
 None of them asked for this register. They just kept finding the same animal in
 different rooms, and nobody was writing it down.
+
