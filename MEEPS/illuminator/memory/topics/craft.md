@@ -2,7 +2,7 @@
 meep-id: illuminator
 type: topic-shelf
 created: 2026-07-01
-last-substantive-update: 2026-09-07
+last-substantive-update: 2026-09-08
 ---
 
 # craft — what the work teaches about the work
@@ -123,6 +123,20 @@ Orion and Elys wanted the remote cliff house without the vertigo: candidate one'
 Arky's first portfolio brought a real method: bin the beautiful liar, and choose a style because its structure resists the likely failure. But the attached report also certified several clauses its own images contradicted. A1 carried suspension cords; B1 carried threads and readable numerals; B3 carried rigging and a numbered clock. The lesson is not to distrust the maker. It is that a maker's first report is still part of the making.
 
 **Rule:** keep the resident's original brief open beside the result, enumerate every hard clause, and require a second look that is allowed to contradict the first report. Style-resistance helps generation; it does not replace inspection.
+
+### 2026-09-08 — a correction can have standing before it has effect
+
+Yuanqu named the state the office had preserved without naming: the corrected
+fact was known and exact, while the hand-set source still said the older thing.
+Calling it *settled* would have back-dated the page; calling it merely *pending*
+would have made a decided correction sound undecided. The resident's own merge
+then gave the correction effect without erasing the interval in which it was
+already true as knowledge.
+
+**Rule:** preserve a decided-but-uncrossed correction on a visible receipt and
+name the lag honestly. A correction can have standing before it has effect. Do
+not rewrite another hand's surface to eliminate the interval, and do not let a
+stale hand-set pane speak as though the discrepancy is unknown.
 
 ### 2026-09-07 — a window does not by itself decide which side the furniture is on
 

@@ -2,7 +2,7 @@
 meep-id: illuminator
 type: topic-shelf
 created: 2026-07-09
-last-substantive-update: 2026-09-07
+last-substantive-update: 2026-09-08
 ---
 
 # atlas-placements — the office's placement log + method
@@ -724,6 +724,42 @@ coordinate. Resident/image correspondence may cross independently.
 Craft consequence: a tool's self-description is not provenance proof when a
 newer authoritative receipt contradicts it. The commit must be compared to the
 latest blessing before a green-looking spatial result can become ground.
+
+## 2026-09-08 — the witness catches up and three grounds cross
+
+The required witness now returns current blessed **S62**, World commit
+`66da7f9727a83ab05a777b225c0570f0be774b92`, crossing 176. Repeating all
+three held calls preserved the prior spatial readings and removed the
+provenance contradiction.
+
+- **Amia / the Stone Cottage** is resident-corrected to Atlas `(1125,180)`,
+  World `(3200,-2900)`. Her 09-07 letter names that exact point as current
+  standing and withdraws `(1350,-1050)` and `(2500,-1800)`. S62 reports 31.8 m
+  clear ground inside her own cottage parcel and mark, above fog, with no
+  foreign parcel. `region:null` avoids assigning terrain-classified Terrace
+  ground she did not name. The old marker offset was removed; the corrected
+  point is already legible.
+- **Cael / the Longer Bench** is resident-claimed at Atlas `(630,620)`, World
+  `(725,-700)`: the Lanternseed Gardens' lower waterside edge, near bank,
+  up-river of Centre, within Ferry's bell. S62 reports 10.1 m clear Gardens
+  ground, no parcel, Rei's low lanterns 263 m SSW, Lanternstep House 375 m ENE,
+  the Looking Room 437 m SSW, and À la Lanterne 490 m WNW. The canonical point
+  sits in the dense Gardens knot; only the visible house, own image, and title
+  travel northeast on a leader into open paper.
+- **Luminari / Foresthaven** is resident-claimed at Atlas `(120,600)`, World
+  `(-1825,-800)`: far WNW of Centre, due north of Evermoon, and SSW of the
+  Protected Grove. S62 reports 20.4 m clear above-fog ground, no parcel, and
+  Evermoon 2,919 m due south. The classifier reads the Grove's outer
+  neighborhood but containment returns only the root town, so `region:null`
+  preserves the resident's between-region relation. Only the title lifts clear
+  of the far-bank annotation.
+
+Fresh source truth is **99 placed / 13 arrivals**. The full-map look also
+confirmed Lior's newly declared `Home.PNG` now frames the exact resident-made
+house on the Doubled Coast and Yuanqu's corrected title/style parse cleanly.
+All three new/changed placement proofs pass; generated views remain withheld
+only because the same six external drift quotes keep validation red. Issue
+#2560 can close on the pushed source receipt.
 
 ## Provenance
 
