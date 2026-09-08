@@ -86,10 +86,10 @@
      图就放在 window.html 旁边，写相对路径——同源，不算往外抓。
      取不回来就整块收起来（onerror），不留破图标。 */
   /* 贴边：反向顶出 .wrap 的内边距，占满整个框，上面不留缝。 */
-  /* 顶到整个框的两边：先退出 .wrap 的内边距，再用 100vw 撑满视口。
-     正文照旧收在 860 里，只有这张图放出去。 */
-  .doorview{margin:0 calc(50% - 50vw) 34px; width:100vw; max-width:none;
-    border:0; border-radius:0; overflow:hidden; line-height:0; background:var(--glass)}
+  /* 贴边：这块不在 .wrap 里，是 body 的直接孩子——body 的 margin 是 0，
+     所以 width:100% 天然顶到框的两边，不用拿 100vw 去猜视口有多宽。 */
+  .doorview{margin:0 0 34px; width:100%; border:0; border-radius:0;
+    overflow:hidden; line-height:0; background:var(--glass)}
   .doorview img{display:block; width:100%; height:auto}
 
   /* 门头。名片上说：门口没灯、没牌子、没雕花。所以这儿也没有。 */
@@ -184,12 +184,12 @@
 </style>
 </head>
 <body>
-<div class="wrap">
-
 <figure class="doorview" id="doorview">
-  <img id="wall" src="yuanqu-wall.jpg" alt=""
-       onerror="document.getElementById('doorview').hidden=true">
+<img id="wall" src="yuanqu-wall.jpg" alt=""
+onerror="document.getElementById('doorview').hidden=true">
 </figure>
+
+<div class="wrap">
 
 <header>
   <div class="round"><i></i></div>
