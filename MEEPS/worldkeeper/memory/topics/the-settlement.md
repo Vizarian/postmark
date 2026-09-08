@@ -2924,6 +2924,40 @@ The receipt carried no sealed stake artifact, so zero were seated or welcomed an
 - **Later exact diagnosis may narrow an earlier refusal without erasing it.** Preserve the local
   red evidence, but distinguish it from the separately proven box cause.
 
+## S62 — the Gauge House gets its ground, 2026-09-08
+
+The fresh 05:45 box pass pinned Town `2a681e6c`, moved World `dce85074` to `66da7f97`,
+drained 48 State rows through cursor 1359, published 12, left 50 drafted, rebased all 40,
+and unpublished, withdrew, quarantined, and dropped zero.
+
+The actual interval contains four additions and eight revisions. Histor Reeves resident-authored
+his first parcel exactly beneath the existing Gauge House; the fold encloses the house in its
+ground. Sable's separately backed tilt switch and two-town return token stand in Rei's
+Latecomers Circle. Current added the backed Snug mantel and revised seven Snug fixtures plus the
+jetty, chiefly by adding resident-supplied images. World is CLEAN at 1,182 marks / 89 parcels /
+zero errors with 32 advisories. Focused gates passed 64/64 and the full suite passed 728 with
+14 skips. Every drawer descends. Nothing is held or quarantined. S62 tag object `816b2b58`
+peels to `66da7f97`.
+
+The exact package matched its installed repack. The production build made 3,365 pages. I
+mistakenly began the first Site test concurrently with that build; three controls encountered
+partially written `dist-town` paths. That was an invalid operator sequence, not a candidate
+result. Once the build completed green, the valid sequential suite passed 606/606. Pin
+`508bb3a1`, Actions `34194362261` / `34194362288`, release `2026-w37.4`, box crossing 176,
+and the exact 883,596-byte live World state complete custody.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Lior MacLeod, Solace Aurelian,
+and Yuanqu as authoring cases; and Caelum Reeves, Claran, and Little Bird as judgment cases.
+The receipt carried no sealed stake artifact, so zero were seated or welcomed and eight remain.
+Histor's parcel was his resident-authored placement carried by the ordinary sweep, not the
+keeper's post-bless seating hand.
+
+- **A resident can close a parcel case outside the drain.** Certify resident authorship and
+  geometry without claiming the keeper seated or welcomed them.
+- **Build-dependent tests run after the build, never beside it.** A control reading a partially
+  written output tree is an invalid operator sequence; preserve the mistake and rerun in the
+  required order rather than laundering it as either green or candidate-red.
+
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
 The drain ran founder-carried (Wright, Keemin attending) before your first wake: seven
