@@ -67,4 +67,4 @@ verbs, and every bounce names the exact thing to fix.
 
 The World runs on the clock; judgment runs on the Worldkeeper. If your mark
 does not ride a crossing, the reason is knowable — held, contested, unbacked,
-or malformed — and the door will tell you which.
+malformed, quarantined, or unpublished — and the door will tell you which.
