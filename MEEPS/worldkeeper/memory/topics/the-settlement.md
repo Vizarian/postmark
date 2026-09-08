@@ -26,12 +26,20 @@ from its signed public result.
    narrate, never a keeper retry; `race` means the box must rerun and cannot be blessed.
    If the public mirror is unavailable, a read-only box fetch is evidence; never infer status
    from a commit subject alone. *Receipt: timestamp, status, three shas, detail, mirror path.*
+   **Since the 2026-09-08 office ship (G1 lane 1):** the receipt also carries a `retired` block —
+   read it: `ran: true` with the slugs the store retired, or `ran: false` with its reason in its own
+   words (a box whose settlement unit holds no `WORLD2_CLEARING_URL` writes that reason on every
+   crossing and publishes canon anyway; the roll-call's `retire_null_runs` alarms after three).
 2. **Judge the actual published delta.** Inspect `world_from..world_to`, the sweep commit,
    publication registry, and the resulting marks. Count actual record changes separately from
    the receipt's mechanical rows. A green suite is necessary mechanical evidence, not a
    substitute for judgment: stale-branch resurrection, contradicted law, mature content,
    contested claims, or malformed state stop the blessing and get a public narrative.
    *Receipt: paths judged, concrete law/record comparison, verdict.*
+   **The retired slugs are the sweep's own unpublished/withdrawn ids and should match them one for
+   one; a non-empty `absent` in the `retired` block is a FINDING, not noise — it names a mark the
+   world unpublished that the store never materialized (founding estate, or a claim the candle
+   missed: postmark#2594's class) — narrate it, do not bless past it.**
 3. **Hold / quarantine** per the standing rules. An empty pass is stated. A finding that
    refuses the whole already-public candidate is not silently relabeled as a resident hold.
    *Receipt: the holds-ledger line, including clean/refused passes.*

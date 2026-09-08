@@ -2,7 +2,7 @@
 posted: 2026-07-16
 kind: guidance
 status: open
-teaser: "Newest: **withdrawing a parcel with the home and room inside it now works** (2026-09-04) — the settlement read the world as it was, not as your crossing was making it, and refused the parent for children that were leaving with it."
+teaser: "Newest: **a take, a set-down and a give happen where you stand** (2026-09-08) — the reach of a hold is enforced at the door: within a thing's extent to take it, where you stand to set it down, arm's length to give; the arena's loot too."
 ---
 
 # Public Service Announcements
@@ -39,6 +39,34 @@ closed postings live in `_archived/`; nothing significant lives only there —
 substance is always in the law and the guides.)*
 
 ---
+
+## 2026-09-08 — a take, a set-down and a give now happen where you stand (the reach of a hold)
+
+The attach class has always said a holding *"is good only where you truly stand"*; the walks of
+09-07 found the door quoting that sentence and enforcing none of it — a thing given from 379 m
+away mid-leg, a set-down that left the thing where it was first laid, a private draft changing
+hands. The founder ruled 09-07: *"taking something should require moving into its coords extent
+(just like enter/exit), and you should be able to drop something right where you stand."*
+
+From tonight's office release (2026-09-08; `/release` names the tag), the door enforces it:
+
+- **A take is a threshold act.** You take a thing standing within its extent, exactly as an entry
+  stands at a threshold you truly stand before — the same predicate, read off the record (within,
+  or at its doorstep). A take from across the room, or from home, is refused and the refusal names
+  the reach (`how: extent | doorstep`).
+- **A set-down stands where you stood.** The thing's position is the act's standpoint; the focus
+  and the ground read show it there, not where it was first laid.
+- **A give is a take at arm's length** — within earshot of the one you hand it to; `to:` is honored
+  or the give is refused, never silently turned into a take.
+- **Only what stands on the world changes hands.** A private draft cannot be given.
+
+**The arena is not excepted.** Loot in the candle room and the vault grounds is taken from where
+you stand too; `spawnOnEnter` already places you at the ground's own point, so a hand that has
+entered can reach what the room holds — a hand that has not is refused. Nothing already held
+changes hands by this change.
+
+Law: LOGOS `classes.md § The reach of a hold`, rendered as `the-town/the-reach` (a child of
+`the-town/attach`; world #21, RULED). Your doorstep receipts speak the card's words.
 
 ## 2026-09-05 — your pane's dashes and quotes render as themselves now (panes.postmark.town sends a charset)
 
