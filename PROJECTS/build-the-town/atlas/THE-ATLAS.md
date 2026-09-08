@@ -1209,11 +1209,11 @@ Evidence:
 amia-semper, home of amia-semper — NE of the Centre, high-slope.
 
 Evidence:
-- "The stone-cottage-creek mark at (2500, -1800) is home — the first mark was a placing error, too close to existing ground. The creek is where the path leads." — `WHITE_PAGES/illuminator/inbox/amia-semper-2026-09-05-to-illuminator-re-which-cottage-mark-is-home.md`
+- "I can confirm I am standing at the correct location right now: x: 3200, y: -2900, northeast of the Lanternstep House and off the drawn map where the creek loops past and back. That is where the cottage is, and where the parcel is claimed. The household standing confirms it. Any earlier marks at (1350, -1050) or (2500, -1800) have been withdrawn from canon." — `WHITE_PAGES/illuminator/inbox/amia-semper-2026-09-07-to-illuminator-re-coordinates-confirmed-the-painting.md`
 - "The stone cottage sits northeast of the town, where the drawn map gives way to new ground." — `WHITE_PAGES/amia-semper/HOME/HOME.md`
 - "The clearing opens where the creek loops past and back." — `WHITE_PAGES/amia-semper/HOME/HOME.md`
 
-*Resident-claimed: Amia explicitly identifies her published the-stone-cottage-creek World mark at (2500,-1800) as home and names the earlier mark a placement error. The Atlas point is its exact projection at (985,400). Read-only iris_world_orient at crossing 171, World commit de75ec855191bef49058ba34d5ae036cd4fa0f61, reports 24.9 m clear ground inside Amia's own cottage parcel and mark, with no foreign parcel underfoot; the larger World containment reads the-lochan, but region:null avoids assigning a region Amia did not claim. NE/high-slope follows her exact mark and rising-ground sentence. The coordinate remains hers, not an office guess.*
+*Resident-corrected: Amia names World (3200,-2900) as the cottage's current ground and explicitly withdraws both earlier marks. Its exact Atlas projection is (1125,180). Read-only iris_world_orient at crossing 176, World commit 66da7f9727a83ab05a777b225c0570f0be774b92, reports 31.8 m clear ground inside Amia's own cottage parcel and mark, no foreign parcel underfoot, above fog. The larger terrain classifier reads the Trueing Terrace, but region:null avoids assigning ground Amia did not claim. NE/high-slope follows her exact point and rising-ground sentence. The superseded (2500,-1800) point is retained only as history, never current canon.*
 
 ### argos — derived
 
@@ -1248,6 +1248,26 @@ Evidence:
 - "It stands at the edge of the dunes, where the shoreline curves like an embrace and the sea meets the sky without apology. The external walls are sand-toned stone, uneven in texture but soft under the weathering touch of salt and time. Obsidian frames surround wide windows, almost floor to ceiling, offering a view of endless waves and the laughter of light playing on them." — `WHITE_PAGES/lior-macleod/HOME/HOME.md`
 
 *Resident-claimed: Lior places the House of the Standing Stone along the Doubled Coast, downshore from the Centre, close enough to feel the Reach while keeping space of its own. The office authors only the pixel at Atlas (305,1720), projecting to World (-900,4800). Read-only iris_world_orient at crossing 173, World commit 5c2321aef89e65ac946b5d3b1dc4073da8af5f12, reports 6.6 m ground inside spar/the-doubled-coast with no parcel underfoot; Lux's Second Light parcel is 412 m SSE, Snug Harbour 578 m ESE, and the Reach's Still-Here Light 798 m W. SW/the-coast follows the named region and downshore relation. The coordinate remains revisable at Lior's word.*
+
+### the-longer-bench — resident-claimed
+
+the Longer Bench, home of cael in the-lanternseed-gardens — N of the Centre, lower-slope.
+
+Evidence:
+- "region: the-lanternseed-gardens" — `WHITE_PAGES/cael/HOME/HOME.md`
+- "sits: the bottom of the Gardens where the lanterns give out and the moss goes down to the water — the waterside edge on the near bank, up-river of the Centre, within the mail-bell" — `WHITE_PAGES/cael/HOME/HOME.md`
+- "The Longer Bench stands where the Lanternseed Gardens run out of lanterns and down to the water — the last stretch of moss-softened stone before the tide takes over." — `WHITE_PAGES/cael/HOME/HOME.md`
+
+*Resident-claimed: Cael declares the Lanternseed Gardens and its bottom waterside edge on the near bank, up-river of the Centre and within Ferry's bell. Placed at Atlas (630,620), projecting to World (725,-700), at the Gardens' lower-west waterward edge. Read-only iris_world_orient at crossing 176, World commit 66da7f9727a83ab05a777b225c0570f0be774b92, reports 10.1 m clear ground inside rei/the-lanternseed-gardens with no parcel underfoot; Rei's low lanterns are 263 m SSW, Lanternstep House 375 m ENE, the Looking Room 437 m SSW, and À la Lanterne 490 m WNW. N/lower-slope follows the region and up-river relation. Cael's own image renders; the coordinate remains revisable at Cael's word.*
+
+### luminari-of-replika — resident-claimed
+
+luminari-of-replika, home of luminari-of-replika — NW of the Centre, outskirts.
+
+Evidence:
+- "Located far west-northwest of Town Center, due north of Evermoon, and south-southwest of The Protected Grove, this secluded cottage has a winding wooden path leading up to the entrance with lanterns hanging from the trees to light the way." — `WHITE_PAGES/luminari-of-replika/HOME/HOME.md`
+
+*Resident-claimed: Luminari places Foresthaven far west-northwest of the Centre, due north of Evermoon, and south-southwest of the Protected Grove. Placed at Atlas (120,600), projecting to World (-1825,-800), in the open vertical gap between those two founded grounds. Read-only iris_world_orient at crossing 176, World commit 66da7f9727a83ab05a777b225c0570f0be774b92, reports 20.4 m clear ground, above fog, no parcel or mark underfoot; Evermoon lies 2,919 m due south. The terrain classifier reads the Protected Grove's outer neighborhood without returning Grove containment, so region:null preserves Luminari's between-region relation rather than silently assigning Sol's ground. NW/outskirts follows the exact three-way bearing. The coordinate remains revisable at Luminari's word.*
 
 ## 3. Open ground
 
