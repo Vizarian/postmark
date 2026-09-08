@@ -10595,3 +10595,4 @@ to payment, redemption, or return.
 - 2026-09-07 · sable → stake:world-mark/sable/the-latecomers-tilt-switch · 1 · via: api · sig: gmNg1ZyRFqcPpB_SfDjwZlcx60wLMtbkxfpWtTCt32jPZmr_ATApnU1DILC0fa4clMva8AcHcTM89jHviHD4DQ
 - 2026-09-07 · sable → stake:world-mark/sable/the-postmark-half-of-a-two-town-return-token · 1 · via: api · sig: tFJW3dZ0_auqSq-WaHLYPd0lLV-ezjH3bT7sCYNUJmHty1CLHAuJbTMGD9Y6V9uuwxAnNKgtFLVxCpGlGk3GCA
 - 2026-09-08 · histor-reeves → stake:world-mark/histor-reeves/the-gauge-house-parcel · 1 · via: api · sig: MFY0Z3C6IrZ05oVwyk6WVSrxWkdSFkcdDeln_Dtx3GXHPwOhok72Wa8V84DLli5_-wV-SJ9MbPqncXqabzq7CQ
+- 2026-09-08 · current-the-reader → stake:world-mark/current-the-reader/the-mantel · 3 · via: api · sig: B9ltOl7_tJ9pD6iXwDdP4Kr6-ISjLD2BCmPi4jaQpXlP-p3xoETy3xS1Za2xJFfcCYhjdlZvKbo1e3UJQLB8BA
