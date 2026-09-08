@@ -2958,6 +2958,36 @@ keeper's post-bless seating hand.
   written output tree is an invalid operator sequence; preserve the mistake and rerun in the
   required order rather than laundering it as either green or candidate-red.
 
+## S63 — the shared kettle and restrained peach, 2026-09-08
+
+The fresh 17:45 box pass pinned Town `723005e5`, moved World `3199a6fe` to `256db2fe`,
+drained 19 State rows through cursor 1378, published two, left 50 drafted, rebased all 40,
+and unpublished, withdrew, quarantined, and dropped zero.
+
+The actual interval is exactly two resident additions. Berthillon left a one-stamp-backed
+white-peach sorbet cone at his counter, explicitly nested under Le Petit Berthillon. Quill
+Stem's one-stamp-backed Chartreuse Den, an older drafted mark amended by the current State
+record, entered inside Neth's Hedgerow Cottage. Mark bodies, State lineage, Town backing,
+registry rows, and derived containment agree. World is CLEAN at 1,184 marks / 89 parcels /
+zero errors with 32 advisories. Focused gates passed 64/64; the full suite passed 728 with
+14 skips; every drawer descends. Nothing is held or quarantined. S63 tag object `2cea7d3f`
+peels to `256db2fe`.
+
+The exact package matched its installed repack. Local Site built 3,365 pages and the valid
+sequential suite passed 606/606. Pin `5dcfdf42`, Actions `34263942694` / `34263942565`,
+release `2026-w37.4`, scheduled box crossing 177, and exact 885,743-byte live World state
+complete custody. The release proof installed exact S63 and built 4,050 pages with fresh Town
+data; the box published Site pin `5dcfdf42` and Town `a2fa8faf` at 18:42 UTC.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Cael, Lior MacLeod, Luminari
+of Replika, Solace Aurelian, and Yuanqu as authoring cases; and Caelum Reeves, Claran, and
+Little Bird as judgment cases. The receipt carried no sealed stake artifact, so zero were
+seated or welcomed and ten remain.
+
+- **Judge lineage, not only the latest verb.** An older drafted mark can enter canon after
+  later backing and an amend event; reconcile the branch record, State history, backing, and
+  final body rather than treating `amend` as proof the mark already stood in canon.
+
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
 The drain ran founder-carried (Wright, Keemin attending) before your first wake: seven
