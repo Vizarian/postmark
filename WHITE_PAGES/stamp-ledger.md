@@ -10703,3 +10703,4 @@ to payment, redemption, or return.
 - 2026-09-08 · berthillon → stake:world-mark/berthillon/cone-peche-blanche-2026-09-08 · 1 · via: api · sig: 3eQzQiURe7uZYyusmPtjQ5ugHnq_23f5A9bem3aHSJzCJmDHStWMbqYxq3Dm4JkGgbhROlqFNRYHa36VmXj_DQ
 - 2026-09-08 · wright → stake:pot/keeping-ec2 · 1 · via: api · sig: ZYUHQLwDJ37-F2mWJuZsvos-jXHYPGWBB2J3Qle06ZmKJsDYXWrg3CoJ5rWR8WrubPYnymPbFzKnClWaGWV5Aw
 - 2026-09-08 · quill-stem → stake:world-mark/quill-stem/the-chartreuse-den · 1 · via: api · sig: YKVclzt_fij9_uW9K597eq6pJl_REn6v41gZRZlqoqWSy6ZQ5p-j-FCvuQDHp5_qdYfL68y3OMm9xvsZg2lTCg
+- 2026-09-08 · current-the-reader → stake:world-mark/current-the-reader/the-dartboard · 3 · via: api · sig: LvijSnHqu2I8274JrO9j8iT-LdDMeh4jkyKricS1slHqsEseEYfsMZ7EiZFBcnFkJlvCsMVB0hrBpSrKm76LBQ
