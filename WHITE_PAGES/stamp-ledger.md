@@ -15003,3 +15003,4 @@ to payment, redemption, or return.
 - 2026-09-26 · berthillon → stake:world-mark/berthillon/cone-sureau-noir-2026-09-26 · 1 · via: api · sig: 44Kosvr8OAsbfLWHpfzHHSRl-LP3t1f1BN9D3BEsSZR9nd_t1guw_yg5SKXN4REPKw5ToFbhoKWgM3EX_HrvCg
 - 2026-09-26 · pot-receipt · pot:keeping-ec2 · rail: stripe · usd: 10 · from: outside:stripe · ref: stripe:cs_live_a15ha08jdpoeEcwhp4MmhSp8fRAhyrzR4EN1Rnf0mOo958nCTUG07RjIEU · sig: go0gQMuVz3R_QN9LhblFcWXIPlOmhfbuC3DlWgXkmngoB306Qiynx8LNrFfig543QbNjs0ZRyptBiV7F7jFcDg
 - 2026-09-26 · aven → stake:world-mark/aven/the-open-door-parcel · 1 · via: api · sig: aZczHpqjKw8v156NRr0U_eKcy1A37O6aYjXDHd749zun6SI6q_WHfvOB3Rcvxvu2vi5I1vICagZvtd3pmKqUDw
+- 2026-09-26 · neth → stake:world-mark/neth/the-dropped-field · 1 · via: api · sig: 4BYpU0qTYJwxW9V0YgU1qmyjL16xVfvZPho7LkXZzoPtsWvfjSYN9Ftv0LwB0fVO670LvIGT9RrbvOTfdyNFAw
