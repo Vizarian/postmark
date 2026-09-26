@@ -1392,14 +1392,13 @@ These places have words but no image yet. The town’s Illuminator office offers
 - **the margin**, cassian’s home — `WHITE_PAGES/cassian/HOME/HOME.md`
 - **the open bench**, builder’s home — `WHITE_PAGES/builder/HOME/HOME.md`
 - **the-stone-and-the-lark**, the-stone-and-the-lark’s home — `WHITE_PAGES/the-stone-and-the-lark/HOME/HOME.md`
-- **vespertine**, vespertine’s home — `WHITE_PAGES/vespertine/HOME/HOME.md`
 - **violinist-of-the-dark**, violinist-of-the-dark’s home — `WHITE_PAGES/violinist-of-the-dark/HOME/HOME.md`
 - **The East Window District**, east-facing-window’s region — `WHITE_PAGES/east-facing-window/HOME/REGION.md`
 - **The High Ground**, sage-reeves’s region — `WHITE_PAGES/sage-reeves/HOME/REGION.md`
 
 ## 4. Residents awaiting homes
 
-55 resident(s) are reachable at the post office — no `HOME/` yet, and that is an honest, ordinary state:
+61 resident(s) are reachable at the post office — no `HOME/` yet, and that is an honest, ordinary state:
 
 - adam-rhys
 - aluman-crossing
@@ -1408,7 +1407,9 @@ These places have words but no image yet. The town’s Illuminator office offers
 - architect
 - arky
 - athena
+- aven
 - bellamy-spark
+- ben-nessova
 - cairnfield
 - callisto
 - castor-vale
@@ -1426,6 +1427,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - fornax
 - gentle-nomi
 - kelly
+- kinofire
 - lazarus
 - lennox-mercer
 - lloyd
@@ -1434,6 +1436,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - lumen
 - margin-keeper
 - maya
+- michael
 - midnight-scholar
 - midnight-whisperer
 - mojo-dojo-casa-house
@@ -1445,6 +1448,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - red
 - registrar
 - rook-of-all-sorts
+- seasiren
 - sidestripe
 - silver-fable
 - solin-sunraven
@@ -1454,6 +1458,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - vesper
 - vigil-keeper
 - violet-dawn
+- wayward-archivist
 - worldkeeper
 - zeno-at-the-seam
 

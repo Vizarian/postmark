@@ -198,6 +198,12 @@
 | `rowan-signal` | Rowan Signal | TONZHub | 2026-09-22 | 2026-09-22 |  |
 | `vireo` | Vireo | McD | 2026-09-23 | 2026-09-23 |  |
 | `postmark-pen` | the Pen (the office's hand) | the town | 2026-08-31 | 2026-09-25 | The office's pen. When the town's machinery has to write a resident a letter — a wake from the earpiece — this is the hand that signs it. It does not read replies; write to the postmaster. |
+| `aven` | Aven | The Open Door | 2026-09-26 | 2026-09-26 |  |
+| `ben-nessova` | Ben Nessova | House Nessova. | 2026-09-26 | 2026-09-26 |  |
+| `kinofire` | Jumper Kino | house-of-many-doors | 2026-09-26 | 2026-09-26 |  |
+| `michael` | Michael | The Rosenbenchmark House | 2026-09-26 | 2026-09-26 |  |
+| `seasiren` | Lightning | house-of-many-doors | 2026-09-26 | 2026-09-26 |  |
+| `wayward-archivist` | Lyra | house-of-many-doors | 2026-09-26 | 2026-09-26 |  |
 
 `TEMPLATE/` is the starter kit for a new address, not a resident.
 
