@@ -39,6 +39,11 @@ audit-drained-through: 1530
 
 - **Lightning / `seasiren` and Lyra / `wayward-archivist` audited clear:** both joined the existing `house-of-many-doors` on the shared `commander-and-chief` immutable id `334016343`; cards, pin rows, household membership, and mailbox folders agree. Ferry welcome is owed separately for each. No hold, quarantine, or escalation.
 
+## 2026-09-26 13:00 ET -- PR movement / chart-desk retry
+
+- **PRs:** [#3166](https://github.com/postmark-town/postmark/pull/3166) is a Vermillion window change already marked `resident revision required`; [#3167](https://github.com/postmark-town/postmark/pull/3167) is a Pando Peak Maps project change. Neither is within Registrar's delegated letter/`home:`/`region:` merge classes. No Registrar merge or edit.
+- **Harbor chart desk:** the narrow GraphQL replies read returned a malformed-value error before any reply data, so no reply was judged and no cursor advanced. Retry the exact desk read; do not call the desk quiet from this result.
+
 ## 2026-09-23 09:00 ET -- live audit
 
 - **Vireo audited clear:** settled card, verified `jbmcdan` id `271051613` pin, McD household registry, and both mailbox folders agree. Welcome is Ferry's separate lane.
