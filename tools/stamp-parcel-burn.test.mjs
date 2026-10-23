@@ -15,9 +15,9 @@
 //      it, and every other BURN stays dormant (unknown, so the replay refuses it);
 //   2. the balances: a purchase leaves the payer's liquid stamps for BURN, in
 //      both folds;
-//   3. the verifier: green on a house settled after 10-31 buying its 2nd then
-//      its 3rd; red before 11-01, for a house settled by 10-31, for a house the
-//      registry has no day for, for another house's key, for a meep, out of
+//   3. the verifier: green on a house declared after 10-31 buying its 2nd then
+//      its 3rd; red before 11-01, for a house declared by 10-31, for a house the
+//      registry has no declaration day for, for another house's key, for a meep, out of
 //      order or twice, at a price off the law, and on an overdraw.
 
 import test from 'node:test';
@@ -40,8 +40,8 @@ function keypair() {
   return { pub: publicKey.export({ type: 'spki', format: 'pem' }), priv: privateKey.export({ type: 'pkcs8', format: 'pem' }) };
 }
 /**
- * A town of three houses: the-rowan (ash, birch; settled 11-02), the-oak (oak;
- * settled 10-31, the last day that keeps three) and the-yew (yew; settled
+ * A town of three houses: the-rowan (ash, birch; declared 11-02), the-oak (oak;
+ * declared 10-31, the last day that keeps three) and the-yew (yew; declared
  * 11-01). Each resident is pinned to their house's account, so their household
  * key is `gh:<id>` and the verifier resolves it to `hh:<slug>`.
  */
@@ -131,12 +131,12 @@ test('3 · green on the 2nd then the 3rd; red off the law in every way the line 
     green([BUY()]);
     green([BUY(), BUY({ handle: 'birch', n: 100, nth: 3 })]);
     green([BUY({ household: 'gh:101' })]);                                        // the house's other spelling
-    green([BUY({ handle: 'yew', household: 'hh:the-yew', date: '2026-11-01' })]); // settled 11-01, buying on the first day
+    green([BUY({ handle: 'yew', household: 'hh:the-yew', date: '2026-11-01' })]); // declared 11-01, buying on the first day
     green([BUY(), BUY({ nth: 3, n: 50 })]);                                      // 50 × 1 is under the 3rd: the act knows which count it priced
 
     red([BUY({ date: '2026-10-31' })], /dated 2026-10-31, and no parcel is bought before 2026-11-01/);
-    red([BUY({ handle: 'oak', household: 'hh:the-oak' })], /hh:the-oak settled on 2026-10-31, by 2026-10-31, so it keeps three parcels/);
-    red([BUY({ handle: 'stray', household: 'gh:104' })], /gh:104 has no settling day in the registry/);
+    red([BUY({ handle: 'oak', household: 'hh:the-oak' })], /hh:the-oak was declared on 2026-10-31, on or before 2026-10-31, so it keeps three parcels/);
+    red([BUY({ handle: 'stray', household: 'gh:104' })], /gh:104 has no declaration day in the registry/);
     red([BUY({ household: 'hh:the-yew' })], /names household "hh:the-yew" but "ash" is gh:101/);
     red([BUY({ nth: 3, n: 100 })], /has bought 0 parcels, so its next purchase is parcel 2/);
     red([BUY(), BUY({ handle: 'birch' })], /has bought 1 parcel, so its next purchase is parcel 3/);

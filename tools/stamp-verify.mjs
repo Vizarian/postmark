@@ -200,10 +200,11 @@ export function verifyStampLedger(repo, { pubkeyPem, registry = null } = {}) {
       return m;
     })();
     const canonHouse = (key) => houseSlugByGhId.get(key) ?? key;
-    // The day each declared house settled, as the registry wrote it (a
-    // US-Eastern date string), keyed by its canonical `hh:<slug>`: the parcel
-    // purchase is lawful only for a house that settled after the cutoff (POS-762).
-    const settledOn = (() => {
+    // Each declared house's declaration day, as the registry wrote it (`since`,
+    // a town-time date string, never the day it came ashore), keyed by its
+    // canonical `hh:<slug>`: the parcel purchase is lawful only for a house
+    // declared after the cutoff (POS-762).
+    const declaredOn = (() => {
       const m = new Map();
       try {
         const hhFile = registry ?? JSON.parse(readFileSync(join(repo, 'tools', 'households.json'), 'utf8'));
@@ -577,13 +578,13 @@ export function verifyStampLedger(repo, { pubkeyPem, registry = null } = {}) {
       }
 
       // ── the parcel purchase (POS-762, Darko 2026-10-22) ──────────────────
-      // A household settled after Halloween buys its 2nd and 3rd parcels from
+      // A household declared after Halloween buys its 2nd and 3rd parcels from
       // the town. The signature proves the office pen, and the overdraw is the
       // running fold's below (a burn is an arrow out of the handle, so it can
       // never draw on escrow). This holds the rest, quoted from the grammar
       // comment: dated on or after the first day of the law; the meep law; the
-      // key IS the payer's household at the line's date, and that household
-      // settled after the cutoff; ONE line per household and parcel, the 2nd
+      // key IS the payer's household at the line's date, and that household's
+      // declaration is dated after the cutoff; ONE line per household and parcel, the 2nd
       // before the 3rd; and the amount is the price times a count under the
       // parcel it buys.
       if (cls.kind === 'parcel-burn') {
@@ -599,19 +600,24 @@ export function verifyStampLedger(repo, { pubkeyPem, registry = null } = {}) {
           problems.push(`line ${lineNo}: LAWFUL fails — ${what} names household "${cls.household}" but "${cls.handle}" is ${houseKey} at ${cls.date}`); break;
         }
         const house = canonHouse(houseKey);
-        const since = settledOn.get(house);
+        const since = declaredOn.get(house);
         if (!since) {
-          problems.push(`line ${lineNo}: LAWFUL fails — ${what}: ${house} has no settling day in the registry, so it keeps three parcels and has none to buy`); break;
+          problems.push(`line ${lineNo}: LAWFUL fails — ${what}: ${house} has no declaration day in the registry, so it keeps three parcels and has none to buy`); break;
         }
         if (since <= PARCEL_SETTLED_BY_DAY) {
-          problems.push(`line ${lineNo}: LAWFUL fails — ${what}: ${house} settled on ${since}, by ${PARCEL_SETTLED_BY_DAY}, so it keeps three parcels and has none to buy`); break;
+          problems.push(`line ${lineNo}: LAWFUL fails — ${what}: ${house} was declared on ${since}, on or before ${PARCEL_SETTLED_BY_DAY}, so it keeps three parcels and has none to buy`); break;
         }
         const bought = parcelsBought.get(house) ?? 0;
         if (cls.nth !== bought + 2) {
           problems.push(`line ${lineNo}: LAWFUL fails — ${what}: ${house} has bought ${bought} parcel${bought === 1 ? '' : 's'}, so its next purchase is parcel ${bought + 2}${bought + 2 > 3 ? ', past the cap of three' : ''} (the 2nd, then the 3rd, once each)`); break;
         }
-        const j = cls.n / PARCEL_PRICE;
-        if (!Number.isInteger(j) || j < 1 || j >= cls.nth) {
+        // ⚑ THE PRICE WAITS ON POS-762/f (Darko). The one line below is where the
+        // exact amount goes. Today it accepts any 50 × j for 1 ≤ j < nth (the 3rd
+        // at 50 or 100). Ruled BY ROOM it becomes `cls.n === PARCEL_PRICE * (cls.nth - 1)`.
+        // Ruled BY PARCELS HELD AT PURCHASE it becomes `cls.n === PARCEL_PRICE * held`,
+        // and `held` must ride the line or be read from the world: the ledger alone cannot see it.
+        const priceOk = Number.isInteger(cls.n / PARCEL_PRICE) && cls.n >= PARCEL_PRICE && cls.n < PARCEL_PRICE * cls.nth; // ⚑ POS-762/f
+        if (!priceOk) {
           problems.push(`line ${lineNo}: LAWFUL fails — ${what} burns ${cls.n}; parcel ${cls.nth} costs ${PARCEL_PRICE} for each parcel held, between ${PARCEL_PRICE} and ${PARCEL_PRICE * (cls.nth - 1)}`); break;
         }
         parcelsBought.set(house, bought + 1);

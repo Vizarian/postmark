@@ -40,7 +40,7 @@
 //   - <date> · MINT → <handle> · <n> · for: post:<author>/<slug>/<stage>-recredit · by: the-town   (the stage paid to the right resident: diagnosed, briefed or fixed only, the SAME amount its stage line paid, never to that line's own recipient, never a meep, ONE per post and stage, and always immediately followed by its burn)
 //   - <date> · <handle> → BURN · <n> · for: correction:<sig> · by: <hand>   (the wrong stage mint, burned exactly: <sig> is that post:<id>/<stage> line's full signature, <handle> its recipient, <n> its amount, out of liquid stamps only, ONCE per mint, by: one of CORRECTION_HANDS, and always immediately after its recredit. The two are appended together by --stage-recredit or not at all)
 //   PARCELS FROM 11-01 (POS-762, Darko 2026-10-22: "1 parcel per household with extra parcels purchasable with stamps"; "50 stamps per parcel you already have"; paid to the town, never returned):
-//   - <date> · <handle> → BURN · <n> · for: parcel:<nth>/<household-key>   (a household settled after 2026-10-31 (US Eastern) buys its <nth> parcel, 2 or 3: <n> is 50 × j for 1 ≤ j < <nth>, out of the payer's liquid stamps, never a meep, the key IS the payer's household at the line's date, dated 2026-11-01 or later, and ONE line per household and <nth>, in order (the 2nd before the 3rd). The world's fold counts these lines as the household's room (postmark-world tools/marks-fold.mjs § parcels from 11-01))
+//   - <date> · <handle> → BURN · <n> · for: parcel:<nth>/<household-key>   (a household whose declaration is dated after 2026-10-31 (town time) buys its <nth> parcel, 2 or 3: <n> is 50 × j for 1 ≤ j < <nth>, out of the payer's liquid stamps, never a meep, the key IS the payer's household at the line's date, dated 2026-11-01 or later, and ONE line per household and <nth>, in order (the 2nd before the 3rd). The world's fold counts these lines as the household's room (postmark-world tools/marks-fold.mjs § parcels from 11-01))
 //   - <date> · <handle> → BURN · <n> · ...        (reserved; dormant until blessings — every other burn; only `for: correction:` and `for: parcel:` are live)
 // Every entry that moves stamps is a two-sided movement — conservation is
 // structural (entries sum to zero against the MINT/BURN accounts); a balance is
@@ -565,10 +565,14 @@ export const CORRECTION_HANDS = AWARD_HANDS;
 /** An ed25519 signature in base64url: 64 bytes, 86 characters. */
 export const SIG_RE = /^[A-Za-z0-9_-]{86}$/;
 const RECREDIT_RE = new RegExp(String.raw`^- (\d{4}-\d{2}-\d{2}) · MINT → (\S+) · ([1-9]\d*) · for: post:(${POST_ID})\/(${RECREDIT_STAGES.join('|')})-recredit · by: (\S+)$`);
-// ── PARCELS FROM 11-01 (POS-762; Darko 2026-10-22, settled 20:35–20:42 EDT) ──
-// A household settled by 2026-11-01 04:00Z keeps three parcels. One settled
-// later holds one, and buys each further parcel from the town at 50 stamps for
-// every parcel it already holds, burned and never returned, up to three:
+// ── PARCELS FROM 11-01 (POS-762; Darko 2026-10-22, ruled 20:35–20:42 EDT) ──
+// Darko ruled the cutoff as "settled by Halloween's end"; the date that counts
+// is the household's DECLARATION day (households.json `since`, town time), never
+// the day it came ashore. A household whose declaration is dated on or before
+// 2026-10-31 (town time; the cutoff is 2026-11-01 04:00Z) keeps three parcels.
+// One declared later holds one, and buys each further parcel from the town at
+// 50 stamps for every parcel it already holds, burned and never returned, up to
+// three:
 //   - <date> · <handle> → BURN · <n> · for: parcel:<nth>/<household-key>
 // <nth> is the parcel the purchase makes room for: 2 or 3. Movement-shaped
 // (handle → BURN), so conservation folds it structurally and the running fold
@@ -576,13 +580,13 @@ const RECREDIT_RE = new RegExp(String.raw`^- (\d{4}-\d{2}-\d{2}) · MINT → (\S
 // a purchase is the payer's act, asserted in place by the office pen. The
 // verifier holds what a signature cannot (stamp-verify § the parcel purchase):
 // the line's date is on or after PARCEL_ROOM_FROM; the meep law; the key IS the
-// payer's household at the line's date, and that household settled after
-// PARCEL_SETTLED_BY_DAY; ONE line per household and <nth>, the 2nd before the
-// 3rd; and <n> is PARCEL_PRICE × j for 1 ≤ j < <nth>. Which j is the price
-// (the parcels held, or the room bought) is the act's to know, not the
-// ledger's: both are under <nth>.
+// payer's household at the line's date, and that household's declaration is
+// dated after PARCEL_SETTLED_BY_DAY; ONE line per household and <nth>, the 2nd
+// before the 3rd; and <n> is PARCEL_PRICE × j for 1 ≤ j < <nth>. Which j is the price
+// (the parcels held, or the room bought) waits on Darko (POS-762/f); the
+// verifier's one marked line (stamp-verify § the parcel purchase) takes it.
 export const PARCEL_PRICE = 50;
-/** The last US-Eastern day a household may settle on and keep three parcels (the end of Halloween). */
+/** The last declaration day (households.json `since`, town time) that keeps three parcels: the end of Halloween. */
 export const PARCEL_SETTLED_BY_DAY = '2026-10-31';
 /** The first day a parcel may be bought: the day after the cutoff. */
 export const PARCEL_ROOM_FROM = '2026-11-01';
