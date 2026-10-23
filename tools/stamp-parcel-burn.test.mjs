@@ -132,7 +132,6 @@ test('3 · green on the 2nd then the 3rd; red off the law in every way the line 
     green([BUY(), BUY({ handle: 'birch', n: 100, nth: 3 })]);
     green([BUY({ household: 'gh:101' })]);                                        // the house's other spelling
     green([BUY({ handle: 'yew', household: 'hh:the-yew', date: '2026-11-01' })]); // declared 11-01, buying on the first day
-    green([BUY(), BUY({ nth: 3, n: 50 })]);                                      // 50 × 1 is under the 3rd: the act knows which count it priced
 
     red([BUY({ date: '2026-10-31' })], /dated 2026-10-31, and no parcel is bought before 2026-11-01/);
     red([BUY({ handle: 'oak', household: 'hh:the-oak' })], /hh:the-oak was declared on 2026-10-31, on or before 2026-10-31, so it keeps three parcels/);
@@ -141,9 +140,11 @@ test('3 · green on the 2nd then the 3rd; red off the law in every way the line 
     red([BUY({ nth: 3, n: 100 })], /has bought 0 parcels, so its next purchase is parcel 2/);
     red([BUY(), BUY({ handle: 'birch' })], /has bought 1 parcel, so its next purchase is parcel 3/);
     red([BUY(), BUY({ nth: 3, n: 100 }), BUY({ nth: 3, n: 100 })], /has bought 2 parcels, so its next purchase is parcel 4, past the cap of three/);
-    red([BUY({ n: 100 })], /burns 100; parcel 2 costs 50 for each parcel held, between 50 and 50/);
-    red([BUY({ n: 75 })], /burns 75; parcel 2 costs 50/);
-    red([BUY(), BUY({ nth: 3, n: 150 })], /burns 150; parcel 3 costs 50 for each parcel held, between 50 and 100/);
+    // the price is the room already bought (POS-762/f, "Room bought"): room 1→2 costs 50, 2→3 costs 100, whatever is held
+    red([BUY({ n: 100 })], /burns 100; room for parcel 2 costs exactly 50 \(50 × the room already bought, 1, whatever is held\)/);
+    red([BUY({ n: 75 })], /burns 75; room for parcel 2 costs exactly 50/);
+    red([BUY(), BUY({ nth: 3, n: 50 })], /burns 50; room for parcel 3 costs exactly 100/);
+    red([BUY(), BUY({ nth: 3, n: 150 })], /burns 150; room for parcel 3 costs exactly 100/);
   } finally { rmSync(repo, { recursive: true, force: true }); }
 });
 

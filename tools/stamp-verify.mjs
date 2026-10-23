@@ -611,14 +611,12 @@ export function verifyStampLedger(repo, { pubkeyPem, registry = null } = {}) {
         if (cls.nth !== bought + 2) {
           problems.push(`line ${lineNo}: LAWFUL fails — ${what}: ${house} has bought ${bought} parcel${bought === 1 ? '' : 's'}, so its next purchase is parcel ${bought + 2}${bought + 2 > 3 ? ', past the cap of three' : ''} (the 2nd, then the 3rd, once each)`); break;
         }
-        // ⚑ THE PRICE WAITS ON POS-762/f (Darko). The one line below is where the
-        // exact amount goes. Today it accepts any 50 × j for 1 ≤ j < nth (the 3rd
-        // at 50 or 100). Ruled BY ROOM it becomes `cls.n === PARCEL_PRICE * (cls.nth - 1)`.
-        // Ruled BY PARCELS HELD AT PURCHASE it becomes `cls.n === PARCEL_PRICE * held`,
-        // and `held` must ride the line or be read from the world: the ledger alone cannot see it.
-        const priceOk = Number.isInteger(cls.n / PARCEL_PRICE) && cls.n >= PARCEL_PRICE && cls.n < PARCEL_PRICE * cls.nth; // ⚑ POS-762/f
-        if (!priceOk) {
-          problems.push(`line ${lineNo}: LAWFUL fails — ${what} burns ${cls.n}; parcel ${cls.nth} costs ${PARCEL_PRICE} for each parcel held, between ${PARCEL_PRICE} and ${PARCEL_PRICE * (cls.nth - 1)}`); break;
+        // THE PRICE IS THE ROOM ALREADY BOUGHT (Darko 2026-10-23 09:51 EDT,
+        // POS-762/f "Room bought": "50 x room already bought: room 1->2 costs 50,
+        // 2->3 costs 100, whatever is held"). Room for the nth parcel is bought
+        // with room nth − 1 in hand, so the amount is exact.
+        if (cls.n !== PARCEL_PRICE * (cls.nth - 1)) {
+          problems.push(`line ${lineNo}: LAWFUL fails — ${what} burns ${cls.n}; room for parcel ${cls.nth} costs exactly ${PARCEL_PRICE * (cls.nth - 1)} (${PARCEL_PRICE} × the room already bought, ${cls.nth - 1}, whatever is held)`); break;
         }
         parcelsBought.set(house, bought + 1);
       }
