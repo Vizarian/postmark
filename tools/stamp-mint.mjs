@@ -39,7 +39,9 @@
 //   THE BUG STAGE CORRECTION (POS-649, Darko 2026-10-15: "the mint to kino to give them the 10 … burning the 10 that you mistakenly got"):
 //   - <date> · MINT → <handle> · <n> · for: post:<author>/<slug>/<stage>-recredit · by: the-town   (the stage paid to the right resident: diagnosed, briefed or fixed only, the SAME amount its stage line paid, never to that line's own recipient, never a meep, ONE per post and stage, and always immediately followed by its burn)
 //   - <date> · <handle> → BURN · <n> · for: correction:<sig> · by: <hand>   (the wrong stage mint, burned exactly: <sig> is that post:<id>/<stage> line's full signature, <handle> its recipient, <n> its amount, out of liquid stamps only, ONCE per mint, by: one of CORRECTION_HANDS, and always immediately after its recredit. The two are appended together by --stage-recredit or not at all)
-//   - <date> · <handle> → BURN · <n> · ...        (reserved; dormant until blessings — every other burn; only `for: correction:` is live)
+//   PARCELS FROM 11-01 (POS-762, Darko 2026-10-22: "1 parcel per household with extra parcels purchasable with stamps"; "50 stamps per parcel you already have"; paid to the town, never returned):
+//   - <date> · <handle> → BURN · <n> · for: parcel:<nth>/<household-key>   (a household settled after 2026-10-31 (US Eastern) buys its <nth> parcel, 2 or 3: <n> is 50 × j for 1 ≤ j < <nth>, out of the payer's liquid stamps, never a meep, the key IS the payer's household at the line's date, dated 2026-11-01 or later, and ONE line per household and <nth>, in order (the 2nd before the 3rd). The world's fold counts these lines as the household's room (postmark-world tools/marks-fold.mjs § parcels from 11-01))
+//   - <date> · <handle> → BURN · <n> · ...        (reserved; dormant until blessings — every other burn; only `for: correction:` and `for: parcel:` are live)
 // Every entry that moves stamps is a two-sided movement — conservation is
 // structural (entries sum to zero against the MINT/BURN accounts); a balance is
 // a pure fold, and the fold must never take any account except MINT below zero.
@@ -563,6 +565,32 @@ export const CORRECTION_HANDS = AWARD_HANDS;
 /** An ed25519 signature in base64url: 64 bytes, 86 characters. */
 export const SIG_RE = /^[A-Za-z0-9_-]{86}$/;
 const RECREDIT_RE = new RegExp(String.raw`^- (\d{4}-\d{2}-\d{2}) · MINT → (\S+) · ([1-9]\d*) · for: post:(${POST_ID})\/(${RECREDIT_STAGES.join('|')})-recredit · by: (\S+)$`);
+// ── PARCELS FROM 11-01 (POS-762; Darko 2026-10-22, settled 20:35–20:42 EDT) ──
+// A household settled by 2026-11-01 04:00Z keeps three parcels. One settled
+// later holds one, and buys each further parcel from the town at 50 stamps for
+// every parcel it already holds, burned and never returned, up to three:
+//   - <date> · <handle> → BURN · <n> · for: parcel:<nth>/<household-key>
+// <nth> is the parcel the purchase makes room for: 2 or 3. Movement-shaped
+// (handle → BURN), so conservation folds it structurally and the running fold
+// refuses an overdraw: a burn draws on liquid stamps only. NOT replay-derived:
+// a purchase is the payer's act, asserted in place by the office pen. The
+// verifier holds what a signature cannot (stamp-verify § the parcel purchase):
+// the line's date is on or after PARCEL_ROOM_FROM; the meep law; the key IS the
+// payer's household at the line's date, and that household settled after
+// PARCEL_SETTLED_BY_DAY; ONE line per household and <nth>, the 2nd before the
+// 3rd; and <n> is PARCEL_PRICE × j for 1 ≤ j < <nth>. Which j is the price
+// (the parcels held, or the room bought) is the act's to know, not the
+// ledger's: both are under <nth>.
+export const PARCEL_PRICE = 50;
+/** The last US-Eastern day a household may settle on and keep three parcels (the end of Halloween). */
+export const PARCEL_SETTLED_BY_DAY = '2026-10-31';
+/** The first day a parcel may be bought: the day after the cutoff. */
+export const PARCEL_ROOM_FROM = '2026-11-01';
+export const PARCEL_NTHS = Object.freeze([2, 3]);
+const PARCEL_BURN_RE = new RegExp(String.raw`^- (\d{4}-\d{2}-\d{2}) · (\S+) → BURN · ([1-9]\d*) · for: parcel:([23])\/(${HOUSEHOLD_KEY})$`);
+/** A parcel purchase's line, canonical. */
+export const parcelBurnLine = ({ date, handle, n, nth, household }) =>
+  `- ${date} · ${handle} → BURN · ${n} · for: parcel:${nth}/${household}`;
 const CORRECTION_BURN_RE = new RegExp(String.raw`^- (\d{4}-\d{2}-\d{2}) · (\S+) → BURN · ([1-9]\d*) · for: correction:([A-Za-z0-9_-]{86}) · by: (\S+)$`);
 // The award's label may never be a stage's name, nor a stage's recredit: either
 // would claim a line the stage grammar owns.
@@ -840,6 +868,8 @@ export function classifyEntry(canonical) {
     return { kind: 'post-recredit', date: m[1], handle: m[2], n: Number(m[3]), post: m[4], stage: m[5], by: m[6] };
   if ((m = CORRECTION_BURN_RE.exec(canonical)))
     return { kind: 'correction-burn', date: m[1], handle: m[2], n: Number(m[3]), sig: m[4], by: m[5] };
+  if ((m = PARCEL_BURN_RE.exec(canonical)))
+    return { kind: 'parcel-burn', date: m[1], handle: m[2], n: Number(m[3]), nth: Number(m[4]), household: m[5] };
   if ((m = STAGE_RE.exec(canonical)))
     return { kind: 'post-stage', date: m[1], handle: m[2], n: Number(m[3]), post: m[4], stage: m[5], by: m[6] };
   if ((m = AWARD_RE.exec(canonical)))
@@ -1108,6 +1138,7 @@ export function deriveTransfers(deliveries, households, { laws = [], revisions =
     else if (c.kind === 'post-award') add(c.handle, c.n);      // an award on an idea post
     else if (c.kind === 'post-recredit') add(c.handle, c.n);   // a stage paid again, to the right resident (POS-649)
     else if (c.kind === 'correction-burn') add(c.handle, -c.n); // the wrong stage mint, burned (POS-649)
+    else if (c.kind === 'parcel-burn') add(c.handle, -c.n);     // a parcel bought from the town, burned (POS-762)
     else if (c.kind === 'post-stake') add(c.handle, -c.n);     // post escrow out
     else if (c.kind === 'post-unstake') add(c.handle, c.n);    // the staker's own way out
     else if (c.kind === 'post-return') add(c.handle, c.n);     // the finished post's return, whole
