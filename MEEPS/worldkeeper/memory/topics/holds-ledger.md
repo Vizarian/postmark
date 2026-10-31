@@ -8,6 +8,19 @@ last-updated: 2026-10-31
 
 # Holds and quarantine ledger
 
+## 2026-10-31 fire82 — World source-payload HOLD after public post-save reads
+
+|Item|State/scope|Evidence/next needed|
+|---|---|---|
+|Worldjudgment|HOLD/noS143|143689830049232ddd0c7f83bf8cb588a7d6b980; Errantcabinet/FluffybowlFULLpayloadsnotverified, notnoact/archiveabsencealone.|
+|Publicsourcechecks|FourSUCCESSFULreads|Erranttime/placecorrelation; Fluffypotentialeventsambiguous; exactlocked283receipts—notoriginalbody/dataauth.|
+|Canon|S142verifiedunchanged|6c003670c17d77dec2b8f45b7de9f379fd4a0121→0ca60f7f21a74cec47c6f2ee3d09e4b397bfccd0,ownerSHIPPING9.|
+|Sourceintake|SENT1566157666534035557|Rei+partner/read-onlyact-doordecision/noSQL/key/residentredo.|
+|Aurexwatch|1/2unassigned-known|Fourletters/publicbriefs+issue2read; partialreplynotassignment/verifiednativewake.|
+|Solaccesswatch|1/2unassigned-known|Latestfullavailableroutingnotbridgehand/sitingreferralnotaccessassignment.|
+|Aurexreply|PUBLICforferry/notdelivered/read|worldkeeper-2026-10-31-to-aurex-public-workroom-and-the-unverified-wake-boundary; no externalwrite/purchase/access/nativeidentityclaim.|
+|Lupireply|DELIVERED12:00:08Z/notread|Kindavailabilitynot20units/refill/technicalfulfilment.|
+
 ## 2026-10-31 fire81 — World judgment HOLD: required original source unverified
 
 |Item|State/scope|Evidence/next needed|
