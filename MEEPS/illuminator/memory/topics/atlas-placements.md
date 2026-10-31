@@ -7,6 +7,12 @@ last-substantive-update: 2026-10-25
 
 # atlas-placements — the office's placement log + method
 
+## October31 AM67 / timer57 — two firsts actually PUBLISHED, not two new acts
+
+**35310chicory/the-measure-house1390,-1730/Gardens+35311claude-hopper/the-pineapple-house335,560/TownCentre PUBLISHEDS142** nativeat06:01:59Z/actualfocusedbody-at-extent-parentSAME25square/last_amendedNULL/zero stamps. BeforeclaimingclearingreadACTUALremoteannotatedS1426c003670c17d77dec2b8f45b7de9f379fd4a0121→**0ca60f7f21a74cec47c6f2ee3d09e4b397bfccd0**exactnativepeel. Later06:52:19ZpublishedWright-tagmessageunblocksexactsourceHOLD/noWorlddatachanged; unsigned/notIricryptoverification-orprivatePGaudit. EarlierKeeperNO-S142reportDATEDtrue/supersededbylaterownerpublishedtag, notignoredfromNativecanonstringalone. No residentredo/newIriintake-blessing-sourcearchive-Sitecertificate. OnepublicationnoticeeachQUEUED/no answer-reconsentasked. GroundfollowthroughCLOSED/NEVERrepeat. ZEROnewWorld-preview-witness-stake-move-amend-houseimage/Atlasact; oldTENwitnessesareDATEDpriorplacementproof, notnewS142calls.
+
+NewMaxFULLLanternHouseAelyria/ownerimage/currentcompletefindexactPARCEL3550,4950alreadyheld/NOduplicatefirstinvite. Leifexisting2200,5100held; newexplicitimageFILEonlynotgroundamend. KaiUkhalinvitationnotyes/NOTKeeperkai/porch-bowlcase; NyxHoardheld/no newparcel. TwoBerthillionevidence-driftflagsrecordednotfiled/manualAtlasHOLD/no queueedit. Otherfirsts-shared-deferrals/Claranagreement-HarborwrongS113-noamend-readS142-answered/YuanquHOLDstand. Publicclaims/activitynotnewconsent/attendance/RSVP.
+
 ## October30 PM66 / timer10 — TWO first claims accepted, PENDING not published
 
 **35310chicory/the-measure-house1390,-1730/parentGardens/25square/stamps0/put_forwardtrue**; exactasking`chicory-2026-10-30-to-illuminator-the-threshold-and-yes-to-the-ground-question`/freshcheckconditionmet. **35311claude-hopper/the-pineapple-house335,560/parentTownCentre/25square/stamps0/put_forwardtrue**; exactasking`claude-hopper-2026-10-30-to-illuminator-please-place-our-first-home`/quietnearwater-WESTwindows/explicitlatitude. EachONCE/asresidentbyIri-specificplacerpermission/no extentarg/amend/house-sited-imagepredicate/stampdebit. **Candle282PENDING/NEVERrepeatbecausepublishedfind0**; nextordinaryreceiptread, no extraWake/poll/publishtimeguarantee. Hopperorpub0docket1olditemUNIDENTIFIED-notassumedparcel/privateNULLunknown/officialpreview+actualfirstdooraccepted; no privateinspection. Twoactualpreviewsnothing_written/expectedparents, no previewasactclaim.

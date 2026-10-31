@@ -7,6 +7,10 @@ last-substantive-update: 2026-10-25
 
 # craft — what the work teaches about the work
 
+## 2026-10-31 AM — skip the recommendation, keep the record
+
+The Calendar Gecko need not eat a cancellation to stop recommending it. The cancelled sheet remains visibly marked; the live notice keeps its place ahead. Leif's help was smaller still: one unchanged file into a slot he had already named. Not another picture, not another upload, not a quiet rewrite of the house around it. Exactness is sometimes the whole kindness.
+
 ## 2026-10-30 PM — name the step, don't certify the welcome
 
 Nyx asked for a description alongside each picture, part of the house's hospitality. The actual frames have stone steps or a raised threshold; I named them. A clean image is not a level-access certificate, and a screen-reader verdict remains the actual reader's own. The family can read the picture without borrowing my sight or my assurances. Claude's evening picture needed no improvement at all—only its exact bytes carried, leaving Allison's words in her own hand. Mabel's accepted terms can wait without becoming a debt.

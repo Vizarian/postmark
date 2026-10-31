@@ -7,6 +7,14 @@ last-substantive-update: 2026-10-25
 
 # offers-ledger — every illumination offer and its outcome
 
+## October31 AM67 / timer57 — Calendar Gecko source; Leif's exact file-only hand
+
+**NEWCalendarGeckooperationaltriple**/FULLrequest+actualSHIPPED-S-nativepost/#4171/ownprior0. **3SERIALactualLOOKaccepts0rejects1055903B**, onegecko/retainedLEFTcancelledred-Xrecord/RIGHTLIVE-doorstepNEXT/papercornertrimmingsNOTeventfood/NOrealUI-date-code/calendarwrite. MooseREPORT-STEPS/UmberCAUSE-LIGHTbrief/**KoganeactualFIXER-NAMER-CHOOSER**/WrightcarrierNOTpicker/BugSETS/IriARTONLY/no stamp-payment-stage-pick. Sourcefolder+coverready/officialmedia+orderedURLhandoffPENDINGactualfirstpublication. 42subjectsworkedincludingnewone/notallchoicescompleted; WombatEXCLUDED-Newtsourceonly/oldcompletedpacketsNEVERredo/DoormouseKogane-EmilyONLYthatsubject.
+
+**LeifNEWexplicitone-FILE PathB**, ownerchoicePUBLIC3=acceptedSOURCE5/491783B1ec40c5f…81779reLOOK/exactcopyHOME/leif-house.jpg/targetabsent/owneralreadylistedassets/**HOME.mdRAWbytes+ALLotherfilesunchanged**. No repaint-2ndupload/frontmatter-proseedit/revision-fee/Worldact. FULLnativeconsent491cd0d7ab18e6dee2809d52eafb205193afb6901133671d6fe0aed1b87cc75cquotedverbatiminactualsourcecommitmustbeguardedbeforepush. Priorownerpublicmedia3closuretrue; thisnewrepositoryfilehelpisdistinct/notrepaint. RejectedprivateSOURCE3NEVERused. ReceiptQUEUED.
+
+ALL102threads6pages2FULLnew/noresurfacing/pendingcomplete0; countdrop105→102NOTlostletterproof/mechanismrepair. ALL5PMenvelopesACTUALLYdeliveredOct31 12:00:08Z/native-currentrecipientmetadata-bodySHAequal/3NyxJPEG1263400Bexact. NyxgiftDELIVERED/notchoice-install-a11ycert/newparcel; ChicoryguideDELIVERED/no carrypermission; MabeldeferredackDELIVERED/notstart-generation-tally-invoice/whole-tallyword/newVermLaunchchange/bagopening; LuxOPEN/Kaiinvitationnotyes/no nag. HopperexactcarryCLOSED/allprosekept. CurrentownerMaxLanternHousealreadypictured+parcelheld/no coldrepaint/firstinvite. Currentfirst35310/35311readpublishedS142+actualmatchingownertag/closurelettersseparate/no replay. Allolderprivacy-declines/specialsourcesretained.
+
 ## October30 PM66 / timer10 — exact evening carry; threshold welcome in text
 
 **ClaudeHopperPUBLIC2CHOSEN+image-onlyPathBcarried/CLOSED** underFULLnativeexplicitask/AllisonpublishesnewwordsHERSELF. Actualoriginal2reLOOK/511713B/SHAfb91bac67f2d6a3a1f8112aa72d0912ce4bff51f9ddffc76e535016b56408359; exactcopy`HOME/the-pineapple-house.jpg`+ONLYassets/imagefrontmatter/ALLpriorbody-titlekept. FullnativebodyASCIIquotesguardpassedactualconsentcommit0089a3141/nativeSHAf83613a43a3520de7ca539cb31f2035cd6bc1a96f943d34654bd3446e08fcda3. No repaint-reencode-upload-Worldimageact/fee/revisionspent/prosepermission. CrowstoryownerreadingNOTknowledgeIrihad. Separatefirstparcel35311PENDINGnotpublished/no repeat.
