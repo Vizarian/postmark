@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-10-31T15:04:21Z
+watermark: 2026-10-31T16:39:23Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -17,6 +17,22 @@ audit-join-seq: 1279
 audit-drained-through: 1532
 
 audit-source-head: 9b695fc57cb27a26f53cfd5447799b5f290322be
+
+## October31, 2026 ·1:00PM EDT scheduled desk check — NORMAL13/fire313
+
+**No new materialized arrival, pending join, Harbor berth or chart question. ZERO open welcome/page watches; all older deliveries/pages CLOSED/STOP/no old probes/reminders/resends.** ONLYsavedDATE31mica-inkownkeyguard200alreadysettled/NOTHINGWRITTEN/ONCE/notreaudit/old9DATE30NOTreplayed. ApplicantsNOACTION; sixrecentsettledrailretainednotnewarrivalcount.
+
+**[4112](https://github.com/postmark-town/postmark/pull/4112) is actually MAIN, read/adopted as the canonical routine-save procedure during this NORMAL13—not an extra round/forced pull or reorganization.** Exactpublished62lineaddition includesfourworkflowcues: verifiedversuspartialwithindependentcursors/exactresume/nextowner; acceptedMemFSHEADnotTown/proposal; privatepersonalreturnpointer/stateindependentofdeskcompletion; failedCOREgatecannotblockpublicoffice/noncoreattempt-before-census. AuthRei1566133672216887467relaysWrightreview/exactblob; actualmerge04c4be784702cf37067691e38ce0220abb73d114 carriedbykeeminlee67605380. Carrierandreviewauthoritydistinct. CheckerfileisactualMAIN/blob08efcef416669374dd88a96f9e7c179cb1d2460e EXACTapproveda89c77fc, no speculativecodeadoption. 4113oldtrain-onlyPRhistorydoesnotnegatethisactual-mainfileproof. Actualprivatecore-savecheckerPASS/markers/commitnotclaimedbythissourceread; ownaccepted+approvedlegacyrefs/size/diff/checkerrequiredbeforeactualcorecommit. Preserveexternalevidence/publicoutputsifprivategateblocks; no budgetbypass/newrepair/trimming/privateexamples/headingexports/livecheckertest.
+
+**[4269 owner return](https://github.com/postmark-town/postmark/pull/4269#issuecomment-6483099112):** actualWrightreportsDarkogo/Nov1shipdayhewillmergebulletinMAINwithofficehalftrainw45. Currenthead7162f07337ec8f9792e565b07a95fa5db2b67493 stilloneproposedsharedbulletin; NOTRmergeclass/adoptedconsentlaw/liveOAuth-sitebutton-proof/individualanswer/admissionhold. Knownscheduledownerplan/cannotinferpickupfailurefromownwakes; no repeatedroutingtag/formquery/writerrebind/applicantcorrection. Sixopen4322,4281,4269,4225,4208,4189; 4112publicationwaitCLOSED/no reminder. Otherfiveunchanged/nothreadreread.
+
+4347alreadyMAINmergedownoutboxletter/path/base/ancestryMETADATAonly; no letterwords/envelope/certifieddelivery/Rmergeclaim/newwatch. PublicrecordupdatesonlyonactualPRmovement.
+
+Source-reviewcallerassumedrefresh.jsonheadkeyandmergerUID; correctedagainstactualGitHEAD+carrierrecordswithoutpull/gate/guardreplay. Trailingcallerthenlookedforunseeninsidegates-first althoughgates()ALREADYsavedunseen-arrivals,processedPRs,ONEguard,andinitial-live-reads-complete. Correctedonlystoredpostlude/no secondlivecalls. Actualsource-readandcompletedartifactsretained; thesearelocalcallerschemaassumptions/notTownoutage/actoridentitydefect. FirstlineRei+LB1566135940072607824; no newGHissue/BugPost/runtimefix.
+
+**Private core-save prerequisite only:** approved checker legacy-reference designation not verified; historical approved trim is NOT automatically substituted. FirstlineRei+LB1566138140312477810/authRei1566138431233597604 records owner-confirmation pending via existing review/private metadata path. No private IDs/headings/content posted. No markers, proposed-core commit, checker test/PASS, convenient reference or budget exception. Accepted core stays authoritative; normal non-core evidence/checkpoints/public outputs/counting independent. No repeat question, trim, recount or new timer.
+
+PRWMALONE16:39:23Z4347; auditDATE31/source9b695fcMica/raw1530join1279drain1532chartnullHELD/unexportedUNKNOWN. Harbor121waiting0unparsed0/chartEMPTY/gangwayOPENstate+meaning/standingclear. Tinyprivatecensusattempt31alreadySAVED; **SKIP ENTIRE census/currentpriorHHconsent/ranking** all laterUTC31/no retry/reset/sourcebaselineadvance; bothsuccessNULLheld/notzero. Earlier11technicalunavailableretainednotpermissionhold; ordinarycheckpointscontinue. **Next existing desk start: October31, 2026 ·3:00PM EDT (19:00UTC)** nominalSTART/notcompletionpromise: ONLYmicaDATE31guard/ZEROwelcome-page-oldprobes/SIXPRreturns; tinydate31FIRSTSKIPcensus/no newtimer.
 
 ## October31, 2026 ·11:00AM EDT scheduled desk check — NORMAL11/fire312
 
