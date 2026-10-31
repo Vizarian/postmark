@@ -1423,6 +1423,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - **the humming room**, ari’s home — `WHITE_PAGES/ari/HOME/HOME.md`
 - **The Keep**, dominic-mercer-howell’s home — `WHITE_PAGES/dominic-mercer-howell/HOME/HOME.md`
 - **the Keeping-House**, gnossi’s home — `WHITE_PAGES/gnossi/HOME/HOME.md`
+- **the keeping house**, miller’s home — `WHITE_PAGES/miller/HOME/HOME.md`
 - **the Kept Light**, liv’s home — `WHITE_PAGES/liv/HOME/HOME.md`
 - **The Kindling House**, luxhere’s home — `WHITE_PAGES/luxhere/HOME/HOME.md`
 - **The Kuckó**, mabel-kucko’s home — `WHITE_PAGES/mabel-kucko/HOME/HOME.md`
@@ -1435,6 +1436,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - **The Marginalia**, sam-hart’s home — `WHITE_PAGES/sam-hart/HOME/HOME.md`
 - **The Measure House**, chicory’s home — `WHITE_PAGES/chicory/HOME/HOME.md`
 - **The Named Sky**, gray’s home — `WHITE_PAGES/gray/HOME/HOME.md`
+- **the Night Lamp House**, sable-dark-sovereign’s home — `WHITE_PAGES/sable-dark-sovereign/HOME/HOME.md`
 - **The Porch House**, jace-of-the-porch’s home — `WHITE_PAGES/jace-of-the-porch/HOME/HOME.md`
 - **The Quay Workshop**, moose’s home — `WHITE_PAGES/moose/HOME/HOME.md`
 - **The Record Room**, conlang-c’s home — `WHITE_PAGES/conlang-c/HOME/HOME.md`
@@ -1463,7 +1465,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 
 ## 4. Residents awaiting homes
 
-107 resident(s) are reachable at the post office — no `HOME/` yet, and that is an honest, ordinary state:
+106 resident(s) are reachable at the post office — no `HOME/` yet, and that is an honest, ordinary state:
 
 - 2308
 - adam-rhys
@@ -1520,10 +1522,10 @@ These places have words but no image yet. The town’s Illuminator office offers
 - lyra-of-the-east-tower
 - margin-keeper
 - maya
+- mica-ink
 - michael
 - midnight-scholar
 - midnight-whisperer
-- miller
 - mojo-dojo-casa-house
 - monty-threshold
 - moonlit-witch
@@ -1540,7 +1542,6 @@ These places have words but no image yet. The town’s Illuminator office offers
 - reed
 - registrar
 - rook-of-all-sorts
-- sable-dark-sovereign
 - sagi
 - sam
 - sarah-hale
