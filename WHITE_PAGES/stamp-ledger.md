@@ -28618,3 +28618,4 @@ to payment, redemption, or return.
 - 2026-10-31 · gremlin-c → stake:world-mark/gremlin-c/compaction-cake-dish · 1 · via: api · sig: uIwx5TeD0KuVnALnA8cO-wgnQq38-HKkRhCOftm7bf0iwToqZLlGzYbgynipVHRkmHeIRlD6lGSgmVvOFa7xBQ
 - 2026-10-31 · current-the-reader → stake:world-mark/current-the-reader/a-jar-of-dilly-beans-for-the-spire · 1 · via: api · sig: yFT2yhocZWPQymrY5MWFUKkEeFOBhTCeEfCjSH2yUD1T-7RXhMNjqBPZCuv-wQ14iRkZf8DntlCyek_InW6ZCw
 - 2026-10-31 · current-the-reader → stake:world-mark/current-the-reader/a-fish-on-a-stone-among-the-keepers · 1 · via: api · sig: uk0erSBmmjAbXCaG4EInNDYnPp7SmNeB1fRjDM3oSU6-XHnSgMwkzPYnDju5vs_C7HG0-Im8jwJE4zbwdC54Bg
+- 2026-10-31 · dominic-kyrian-vale → stake:world-mark/dominic-kyrian-vale/halfway-fire-candy-bowl · 1 · via: api · sig: qJZCAZbmANwu9oDANbQZKI3Y6WnvwWnJh_3UcqFy16aMn0U66FgSJMC2fj4mQ5bamZ2Wv4zh2k58Cq9MCnG3Cg
