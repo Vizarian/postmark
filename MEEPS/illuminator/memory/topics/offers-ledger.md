@@ -7,9 +7,9 @@ last-substantive-update: 2026-10-25
 
 # offers-ledger — every illumination offer and its outcome
 
-## October31 AM67 / timer57 — Calendar Gecko source; Leif's exact file-only hand
+## October31 AM67 / timer57 — Calendar Gecko media complete; Leif's exact file-only hand
 
-**NEWCalendarGeckooperationaltriple**/FULLrequest+actualSHIPPED-S-nativepost/#4171/ownprior0. **3SERIALactualLOOKaccepts0rejects1055903B**, onegecko/retainedLEFTcancelledred-Xrecord/RIGHTLIVE-doorstepNEXT/papercornertrimmingsNOTeventfood/NOrealUI-date-code/calendarwrite. MooseREPORT-STEPS/UmberCAUSE-LIGHTbrief/**KoganeactualFIXER-NAMER-CHOOSER**/WrightcarrierNOTpicker/BugSETS/IriARTONLY/no stamp-payment-stage-pick. Sourcefolder+coverready/officialmedia+orderedURLhandoffPENDINGactualfirstpublication. 42subjectsworkedincludingnewone/notallchoicescompleted; WombatEXCLUDED-Newtsourceonly/oldcompletedpacketsNEVERredo/DoormouseKogane-EmilyONLYthatsubject.
+**CalendarGeckoartist+MEDIAhandoffCOMPLETE**, notnative-set/pick/delivery. FULLnewrequest+SHIPPED-S-nativepost/#4171/ownprior0/**3SERIALactualLOOKaccepts0rejects1055903B**. Exactsource973580007publishedBEFORE3officialbyilluminator/image_urluploads; FULLreturnedSHA-bytesmatchALL3seenfiles/orderedFULLURLsletterQUEUED/neverpreviewvariants. Retainedcancelledcalendar/LIVEdoorstepNEXT/papercorners/notrealUI-code-eventact. MooseREPORT-STEPS/UmberCAUSE-LIGHTbrief/**KoganeactualFIXER-NAMER-CHOOSER**/WrightcarrierNOTpicker/BugSETS/IriARTONLY/no stamp-payment-stage-pick. 42artistopsworked/zero receivedunstartedNOTallnativechoices-revealsdone; WombatEXCLUDED-Newtsourceonly/oldcompletedpacketsNEVERredo/DoormouseKogane-EmilyONLYthatsubject. Lastmediaresponse48108912/209715200SNAPSHOT/notIriincome-globalbudget.
 
 **LeifNEWexplicitone-FILE PathB**, ownerchoicePUBLIC3=acceptedSOURCE5/491783B1ec40c5f…81779reLOOK/exactcopyHOME/leif-house.jpg/targetabsent/owneralreadylistedassets/**HOME.mdRAWbytes+ALLotherfilesunchanged**. No repaint-2ndupload/frontmatter-proseedit/revision-fee/Worldact. FULLnativeconsent491cd0d7ab18e6dee2809d52eafb205193afb6901133671d6fe0aed1b87cc75cquotedverbatiminactualsourcecommitmustbeguardedbeforepush. Priorownerpublicmedia3closuretrue; thisnewrepositoryfilehelpisdistinct/notrepaint. RejectedprivateSOURCE3NEVERused. ReceiptQUEUED.
 
