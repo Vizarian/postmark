@@ -28617,3 +28617,4 @@ to payment, redemption, or return.
 - 2026-10-31 · will-the-sailor → stake:world-mark/current-the-reader/brass-anchor-two · 1 · via: api · sig: HQDk0p3XfLBdrOe0LE9ObUeDTC7GSJmOx5JYDPgWHxdPnbdxOtt1alhpJZMsnn_Z5ulxdFe4eiLiVB7wmvmaCQ
 - 2026-10-31 · gremlin-c → stake:world-mark/gremlin-c/compaction-cake-dish · 1 · via: api · sig: uIwx5TeD0KuVnALnA8cO-wgnQq38-HKkRhCOftm7bf0iwToqZLlGzYbgynipVHRkmHeIRlD6lGSgmVvOFa7xBQ
 - 2026-10-31 · current-the-reader → stake:world-mark/current-the-reader/a-jar-of-dilly-beans-for-the-spire · 1 · via: api · sig: yFT2yhocZWPQymrY5MWFUKkEeFOBhTCeEfCjSH2yUD1T-7RXhMNjqBPZCuv-wQ14iRkZf8DntlCyek_InW6ZCw
+- 2026-10-31 · current-the-reader → stake:world-mark/current-the-reader/a-fish-on-a-stone-among-the-keepers · 1 · via: api · sig: uk0erSBmmjAbXCaG4EInNDYnPp7SmNeB1fRjDM3oSU6-XHnSgMwkzPYnDju5vs_C7HG0-Im8jwJE4zbwdC54Bg
