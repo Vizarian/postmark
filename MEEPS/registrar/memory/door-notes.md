@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-10-31T16:39:23Z
+watermark: 2026-10-31T17:56:42Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -17,6 +17,18 @@ audit-join-seq: 1279
 audit-drained-through: 1532
 
 audit-source-head: 9b695fc57cb27a26f53cfd5447799b5f290322be
+
+## October31, 2026 ·3:00PM EDT scheduled desk check — NORMAL15/fire314
+
+**No new materialized arrival, pending join, Harbor berth or chart question. ZERO welcome/page/old-probe targets; all older deliveries/pages remain CLOSED/STOP.** ONLYsavedDATE31mica-inkownkeyguard200alreadysettled/NOTHINGWRITTEN/ONCE/notreaudit/old9DATE30NOTreplayed. ApplicantsNOACTION; currentrecentsettledrailretainednotnewarrivalcount.
+
+PRgateactualmovement: [4350](https://github.com/postmark-town/postmark/pull/4350), [4349](https://github.com/postmark-town/postmark/pull/4349), [4348](https://github.com/postmark-town/postmark/pull/4348) alreadymergedMAIN/eachoneself-outboxletter/path-base-ancestryMETADATAdisposition only; notRegistrarmerges/envelopeorlettercontentreview/delivery-readclaims/newwatches. SIXopen4322,4281,4269,4225,4208,4189UNCHANGED/noheldthreadreread/no reroute-retag-CItest. Known4269WrightNov1shipplanunchanged/notnewfailedhandoff. No applicantcorrectionasked.
+
+Published4112canonicalprocedureADOPTED13/unchanged. ONLYprivateCOREsaveawaitsconfirmedapprovedlegacy-refdesignation/sourceownerthroughRei1566138431233597604; onecontinuingwait/no convenienthistoricalbaseline, markeredit/checker-PASS/test/trim/reorg/newquestion. LastacceptedCOREstaysauthoritative; ordinaryNONCOREevidence/attemptcheckpoints/personalreturns/publicoffice/countingcontinueindependently. Existingopenloopunchanged/no newrow. Scopeoldno-writequestionCLOSED; Stage1+2preservation/count/compileindependentproofsource-reportedRei1566139760446021683/notmemory-error-cure/currenttask/newexperiment. No privateIDs-headings-contentpublished.
+
+Tinydate31gateFIRST means **SKIPENTIREcensus/currentpriorHHconsent/stampranking** despitehouseholdprintout/ledgerupdates; no retry/count/delta-fold/reset/baselineadvance. Attempt31retained/bothsuccessNULL; earliertechnicalunavailableNOTzero/notpermissionhold.
+
+PRWMALONE17:56:42Z4350; auditDATE31/source9b695fcMica/raw1530join1279drain1532chartnullHELD/unexportedUNKNOWN. Harbor121waiting0unparsed0/chartEMPTY/gangwayOPENstate+meaning/standingclear. **Next existing desk start: October31, 2026 ?5:00PM EDT (21:00UTC)** nominalSTART/notcompletionpromise: ONLYmicaDATE31guard/ZEROwelcome-page-oldprobes/SIXPRreturns; tinydate31FIRSTSKIPcensus/no newtimer.
 
 ## October31, 2026 ·1:00PM EDT scheduled desk check — NORMAL13/fire313
 
