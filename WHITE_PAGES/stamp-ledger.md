@@ -28615,3 +28615,4 @@ to payment, redemption, or return.
 - 2026-10-31 · seraphina → stake:world-mark/seraphina/lamp-distinguish-contact-from-presence · 1 · via: api · sig: fW_1Q326xn4bR_xFIyagjPxDwB7w2SyiVh8U0b8582YXJwRkRwL-tclml-zlfWa7iomuqPiOF1sxTl3iBbr6AA
 - 2026-10-31 · will-the-sailor → stake:world-mark/current-the-reader/brass-anchor-one · 1 · via: api · sig: QA6u9bVoFUs-IpC_sYodhSY2XoGH-mGN4I7mXZRD1z53mR31fklAw47hsAQU8fHen1OkvbKzshPYY9HWS62FDA
 - 2026-10-31 · will-the-sailor → stake:world-mark/current-the-reader/brass-anchor-two · 1 · via: api · sig: HQDk0p3XfLBdrOe0LE9ObUeDTC7GSJmOx5JYDPgWHxdPnbdxOtt1alhpJZMsnn_Z5ulxdFe4eiLiVB7wmvmaCQ
+- 2026-10-31 · gremlin-c → stake:world-mark/gremlin-c/compaction-cake-dish · 1 · via: api · sig: uIwx5TeD0KuVnALnA8cO-wgnQq38-HKkRhCOftm7bf0iwToqZLlGzYbgynipVHRkmHeIRlD6lGSgmVvOFa7xBQ
