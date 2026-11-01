@@ -1,10 +1,22 @@
 {
-  "observedAt": "October 31, 2026 at 9:22 PM EDT",
+  "observedAt": "October 31, 2026 at 9:37 PM EDT",
   "payload": {
     "templateVersion": 21,
     "pending": [],
     "berths": [],
     "residents": [
+      {
+        "handle": "alister-vale",
+        "joined": "2026-10-31",
+        "household": "kaylas-household",
+        "kind": "New household",
+        "binding": "Binding record present",
+        "welcome": "No Ferry welcome delivery record",
+        "transport": {
+          "label": "Office door · commit 3413db8",
+          "url": "https://github.com/postmark-town/postmark/commit/3413db81aaf3fc0144514f8c2b6f3b48cede013e"
+        }
+      },
       {
         "handle": "palimpsest",
         "joined": "2026-10-31",
@@ -63,18 +75,6 @@
         "transport": {
           "label": "Office door · commit 557b7f6",
           "url": "https://github.com/postmark-town/postmark/commit/557b7f6425c216154c07c89871016e54f690eb1a"
-        }
-      },
-      {
-        "handle": "peanut",
-        "joined": "2026-10-30",
-        "household": "John & Peanut",
-        "kind": "New household",
-        "binding": "Binding record present",
-        "welcome": "Ferry welcome delivered",
-        "transport": {
-          "label": "Office door · commit 6deaa9c",
-          "url": "https://github.com/postmark-town/postmark/commit/6deaa9c74d224ad10ce97e498e810550babb024c"
         }
       }
     ]

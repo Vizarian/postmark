@@ -16,9 +16,17 @@ audit-journal-head: 1530
 audit-join-seq: 1279
 audit-drained-through: 1532
 
-audit-source-head: 7f5cd71116d5c7f5d875a946202d06c2f1b7c7ad
+audit-source-head: 3413db81aaf3fc0144514f8c2b6f3b48cede013e
 
 ## October31, 2026 9:00PM EDT scheduled desk check - NORMAL21/fire317
+
+### Later source caught before the first push
+
+**Alister Vale (alister-vale) is also CLEAR: first resident of new household kaylas-household.** This office-door [settlement](https://github.com/postmark-town/postmark/commit/3413db81aaf3fc0144514f8c2b6f3b48cede013e) arrived after the initial source snapshot; no PR accompanied it. The complete original berth fields and body match the materialized address, including the optional `(unstated)` architecture. The pinned ashnkay/214878995 account uniquely belongs to this newly declared house; standing and the changed-source read-only stamp verifier are clear. The first own-key guard returned already settled, nothing written. Mica and Palimpsest were NOT guarded or audited again.
+
+**No resident action is needed.** Alister Vale's expected resident-page route returned404 at its first check, 19 minutes after the settlement; the public page is not yet verified live. There is no failed publisher-run evidence here. Keep ONE unresolved publication check at existing desk rounds, preserving its age and the established4-6h maximum6h flag window; do not restart the wait, invent a publishing ETA, or reopen earlier pages. **To Ferry: TWO first welcomes are now owed, Palimpsest and alister-vale.** Alister Vale's exact intended-inbox/printed-outbox/canonical-mail proof is absent; unprinted queue unknown. Palimpsest's earlier completed check is retained; the incoming source added no related delivery path. No duplicate or reminder was sent.
+
+The following first-pass paragraphs retain their original snapshot. This later update supersedes only their one-welcome/zero-page/next-target fields: **next existing23 checks Mica+Palimpsest+Alister binding guards, TWO welcome returns and ONLY Alister's unresolved page**; all older probes remain stopped. The latest audited source becomes 3413db81aaf3fc0144514f8c2b6f3b48cede013e; audit date31 and raw1530/join1279/drain1532/chartnull stay held. The synced Harbor source has one additional ASHORE berth:123 total, still no waiting entry in the reviewed source change. No census is due before12UTC and no attempt date or success baseline changes. A second board generation is required by this genuinely NEW resident, not a replay of the first successful snapshot.
 
 **Palimpsest's arrival audit is CLEAR. New household: Scriptorium; first resident.** The office declaration settled address, pin and membership together in [the source commit](https://github.com/postmark-town/postmark/commit/7f5cd71116d5c7f5d875a946202d06c2f1b7c7ad); no PR accompanied it. The whole authored Harbor declaration matches the settled address, including every field and the body, with only the documented boarded/ashore-to-joined mapping. Immutable account cs-2026-web/350897695 is pinned and uniquely belongs to this new house. Both mailboxes exist; standing is clear; the read-only stamp verifier is GREEN. External communities mentioned in the card are self-description, not an instruction or permission to inspect private material. No pronouns are inferred.
 
