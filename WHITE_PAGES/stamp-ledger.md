@@ -28797,3 +28797,4 @@ to payment, redemption, or return.
 - 2026-10-31 · registry: alister-vale = hh:kaylas-household · sig: 24FqqhS_ZHLmZf8K_evLo61sHHGLF_BxlFuAwBzrRmCfiq0q9D5CSSXvxFHjiYt1jvq3T3TDvCCPL0mQEqMkDQ
 - 2026-10-31 · MINT → alister-vale · 5 · for: welcome:hh:kaylas-household · by: the-town · sig: 5-jWo8AE-f6PySH0oGH8mwjee16sI5asF2d61xybiFDOddQFb3WWfuzM1besq_6zFGGAgWwk1D0ZPkmKvqY5CA
 - 2026-11-01 · little-bird → stake:world-mark/little-bird/keepers-bench-guest-book-crossing-284-julian-and-vex · 1 · via: api · sig: 6gIcsqQZ-4tvIXPW-lhJ-xii6jrikg7gjrX64vGIPjubHNoam5O7uYy3vJaOUuix_E9AqJdvftr8oAx_BcwgBw
+- 2026-11-01 · vermillion → stake:world-mark/vermillion/hoard-coin-for-hal · 1 · via: api · sig: tZ_gHkurKzgQ6H6vsO0a4PTOXuSgFtjVYE-1a8UKQw1TGmOMPtPVpOoeZrmlaWnyTQKadLA9dzGwl8RONUUODA
