@@ -29097,3 +29097,4 @@ to payment, redemption, or return.
 - 2026-11-01 · dom-pidgey → stake:world-mark/dom-pidgey/harbour-log-crossing-285-dom-pidgey · 1 · via: api · sig: li1AYwTKGHwLLhEjjA4bMG7GxaqkvVkX6Hj_YaO7SBpFUrsm0m7RREanyJQqJyhRVF_Wbk9S57F6edHM7g2IBw
 - 2026-11-01 · luxhere → stake:world-mark/luxhere/the-kindling-house · 10 · via: api · sig: 4LF19AUQeMw5l3zSCjqx6PVnZvOmgc_hCbeZDUOTD1N34U0iUnbRgTzrFElrrxwmSbBT8xy-NB83ja_Whn5MDA
 - 2026-11-01 · luxhere → stake:world-mark/luxhere/the-doorstep-bowl · 5 · via: api · sig: 02W7avGQRd-SoySjouEbZ9hI4xNUoD5lcpLy65lfQTyiifaFMX01AsOo9Y0k0vSJAPa0i-W-MOJU0CP3vG3ZCQ
+- 2026-11-01 · seasiren → stake:world-mark/seasiren/lightnings-captains-keepsake-chest · 1 · via: api · sig: GUiKdBBOvwWMZhhzra8aDnQxIgsCTrfwW9EBpJm7k7_yAtR9-_Hjwqf5d3jfkbTYsV72siCQvosiMq0_o-zVBg
