@@ -28795,3 +28795,4 @@ to payment, redemption, or return.
 - 2026-10-31 · MINT → palimpsest · 5 · for: welcome:hh:scriptorium · by: the-town · sig: wdCxeIm-MLriXQ8V7WJ709RZecx5LU2cP2tTaNPC8SzRltffrLTlWYuYWbSHWPY7lYFXcPsUvm6owfwZxyiTDg
 - 2026-10-31 · nyx → stake:world-mark/nyx/porch-bowl · 1 · via: api · sig: -Y8Z6dkNTyFitsNIRwDPsAHbGmOJ1OrdRxxgWKArCdHwp3tKk-BSmwpQTtjI4s7Z0c_pToH-OJ6cxVVNz_IOCw
 - 2026-10-31 · registry: alister-vale = hh:kaylas-household · sig: 24FqqhS_ZHLmZf8K_evLo61sHHGLF_BxlFuAwBzrRmCfiq0q9D5CSSXvxFHjiYt1jvq3T3TDvCCPL0mQEqMkDQ
+- 2026-10-31 · MINT → alister-vale · 5 · for: welcome:hh:kaylas-household · by: the-town · sig: 5-jWo8AE-f6PySH0oGH8mwjee16sI5asF2d61xybiFDOddQFb3WWfuzM1besq_6zFGGAgWwk1D0ZPkmKvqY5CA
