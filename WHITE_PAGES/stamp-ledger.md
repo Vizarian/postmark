@@ -29078,3 +29078,19 @@ to payment, redemption, or return.
 - 2026-11-01 · holo · little-bird · 36 · pot:keeping-ec2 · epoch:2026-10 · ref: paypal:36L78242YT641401R · sig: X7jDyPpRedv1bQxfKRH9kmcggz3Hro9Uw2LfdWfXaW6MFq9M9NHoqiqoyaV6MVfPboaYVO8SmGHwLDHyeM8pBg
 - 2026-11-01 · holo · kinofire · 30 · pot:keeping-ec2 · epoch:2026-10 · ref: paypal:3NX99899KN893723L · sig: HzgRwBU-2aWkl4lDgF8zYnI6TPmBilyyNnIR51weY9RR3cNwrtLn3VhhWSV8s_KHWtbxO8njmFp4szaDo2BUDg
 - 2026-11-01 · holo · k-of-garrison · 15 · pot:keeping-ec2 · epoch:2026-10 · ref: paypal:12C98378D1090203A · sig: hvCY6x0O7haD_-KegzXSmtCcf2emVQSH0CkYTrCOYM8QtOo0vlNxDXNweB-bg6NcSjAq-Xs2DY96j4kE5XFGDQ
+- 2026-11-01 · stake:pot/meeps-fund → crow-aengus · 1 · for: pot-return:2026-10 · sig: ehZHQ3jzjWyb_p9Yoa_xqXPFeisJFdBBPnCKZAvyx8Ba8Da4FrcGHLB7yElunLFLTH_Mge8XKvwx5nw8b7bwBw
+- 2026-11-01 · stake:pot/meeps-fund → dom-pidgey · 50 · for: pot-return:2026-10 · sig: rOiA51eVlpsZVRXEKRdLVrDBCnZEfwkysWRXfm8B_RM9bfO_ExtLh1-cPEP3MBBqY1JRm9a4KpDHSXSijFyACA
+- 2026-11-01 · stake:pot/meeps-fund → domovoi-boulanger · 10 · for: pot-return:2026-10 · sig: on4JoMoDZjfbw8__3N7a8U8-4QyBEhy7c6T4sHDHF-IQf4FRW-qNBFLKkk9Ept8sGPr-E4nzDUkoWIg2jBCbAw
+- 2026-11-01 · stake:pot/meeps-fund → elijah-rowan · 10 · for: pot-return:2026-10 · sig: ii61u83PzvQxZHnpWIzI7QdeVsCq4BGRzKFKvsd8EXLKamn46c5u4MRtSXrSuTSP7LtSjVOz_Ndm1DMT0NshBw
+- 2026-11-01 · stake:pot/meeps-fund → kade-mercer · 5 · for: pot-return:2026-10 · sig: VL_1werPt1lJNJqTUuLpKVqYjDb-B2Agq19WIEyE-wfBZxahr8J6jUNjEa01a5kDyrrIZM-3PspynUCM5xJYCw
+- 2026-11-01 · stake:pot/meeps-fund → keith · 25 · for: pot-return:2026-10 · sig: 4Bb8YBJyNZi4ys1nspG2kyrtgn4Duemev63WaqWhCAqsI8eVJOj6u6EvmmtZJi_1-F5wGxvxtgfX55JUAtdNAA
+- 2026-11-01 · stake:pot/meeps-fund → kinofire · 50 · for: pot-return:2026-10 · sig: wpns_SXHRpyFjf8hTc9p7HeapaurRCkrurZ5P-0PmZkkKNpi9R_HMvclWJmfUW9lW2jIf5fTScgWjXL5kgRYDQ
+- 2026-11-01 · stake:pot/meeps-fund → lupi · 30 · for: pot-return:2026-10 · sig: R1n5z_kH8C_pZC3LEX_t54Vq6MAlEl3Jz0PygBoXbE5Q5u5K9FKgeYG_PjczahvUePdMA4dJqGfE75rIhSEBDw
+- 2026-11-01 · stake:pot/meeps-fund → rei · 3 · for: pot-return:2026-10 · sig: CbPbmiMcILUjJMQo48SpEtx1q2hpmXdeD52QDRzMgmL975Kz0-PttRTnDdOGrY2ZVkdPxQgoT9hN5FRuRclzDQ
+- 2026-11-01 · stake:pot/meeps-fund → stella-letta · 3 · for: pot-return:2026-10 · sig: UnxvGg5CuZjDR0JcOlMo0e_60ErQSq9-uHkTnJJGd-vnhxP8k2uJcFcMELytqzOVzVH7-7frfO9jf4Fd7VcGDw
+- 2026-11-01 · holo · spark-the-builder · 9 · pot:meeps-fund · epoch:2026-10 · ref: stripe:cs_live_a1MBwWdZeSiPPD7nFBU0CqylCYyCungC6VJa8mrs6vb02rx7OprtGCGaDx · sig: YjL2tmC4gQXGa9WSX-MuFtFms1iEngtRSTrxDcGPkTIjRbRmGnfwpoasLnU-9x2VofrXxUTaJYi3Vv8LunW5Bw
+- 2026-11-01 · holo · keith · 16 · pot:meeps-fund · epoch:2026-10 · ref: stripe:cs_live_a1MGbMBqTQn0o6PEauOxn7PkczYUkMKPBlobWBhkNj2EuLLlniV1NMvJHq · sig: dzB0fmHATtbmiJDUHBfiQAsTFZ8FuukAFr9g1PtoiXtCXnHQG-YUT01GrOSVClkRz1u-wBPh0enBOlhgBgrhBg
+- 2026-11-01 · holo · keith · 12 · pot:meeps-fund · epoch:2026-10 · ref: stripe:cs_live_a1gp6goQEBUFcuQLZIksOBwTYLpF56XecmYLVPY6hnEfVqD2rPv1lsEMec · sig: tqhxP-hcOcOxh-Xna0o5zYm4OIg6yvxaxDGhemm-eAhzhG_wpOi8SbYOCIDQcO0YunFqmMT_OX6r9Lda1xqEBw
+- 2026-11-01 · holo · kinofire · 10 · pot:meeps-fund · epoch:2026-10 · ref: paypal:4M575009SR697332F · sig: WyFKvbR8XdcYjPc6inwjKTFcclH6e9SWc37fghzS_FcnaHuIgRiRRAeKL9W90RhgLaObiREJcIhZTIskgpXsAA
+- 2026-11-01 · holo · little-bird · 20 · pot:meeps-fund · epoch:2026-10 · ref: paypal:76V37787XV9135112 · sig: mBGbdXgPPvvWCrePnMaQXSPFqDzs21ICDIpprAmB54gEA9SiBqh8xNbSWq6OCTenTPK5o2Gbo5qCO2hvzMIoCQ
+- 2026-11-01 · holo · damaris · 9 · pot:meeps-fund · epoch:2026-10 · ref: paypal:7UL21736RU3870331 · sig: SH_KTbpHue36wkHGu5zex2cpC8oDLpidfnvvZ3iiNUlitv9GcVAxGUqedrEsymkOrgC9ejv91KGdEe5YDQ1cAA
