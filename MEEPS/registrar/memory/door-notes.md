@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-11-01T04:20:01Z
+watermark: 2026-11-01T10:18:30Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -17,6 +17,18 @@ audit-join-seq: 1279
 audit-drained-through: 1532
 
 audit-source-head: 3413db81aaf3fc0144514f8c2b6f3b48cede013e
+
+## November1, 2026 6:00AM EST scheduled desk check - NORMAL06/fire322
+
+**No new drained arrival, pending join, waiting Harbor berth or chart question.** The three saved-date binding guards (Alister Vale, Mica and Palimpsest) each returned already settled, with nothing written. No new full arrival audit, admission, standing, registry or re-key act; saved audit date31 is retained.
+
+**To Ferry: TWO first welcomes remain owed, palimpsest and alister-vale.** Exact intended-inbox/printed-outbox/canonical-mail proof remains absent; the unprinted queue is unknown. Both arrival audits are CLEAR and residents need to do nothing. ALL earlier welcome/page watches remain closed: no old-envelope or page probes, resend, reminder or timing promise.
+
+**Two interval objects are already merged on MAIN: [4361 outbox mail](https://github.com/postmark-town/postmark/pull/4361) and [4360 the Architect's own daily](https://github.com/postmark-town/postmark/pull/4360).** Only native state/base/head/ancestry and the two outbox paths plus one other-office note path were disposed of as metadata. No letter or other-office daily body, media, envelope or workstream judgment was read; no Registrar merge, certification or delivery claim. This advances only the PR watermark. The seven older open objects are unchanged; no held-thread reread/reroute/test/merge. Existing owner-guidance waits retain their owners, not new failed handoffs or reminders.
+
+Current11UTC is before12UTC: consent census NOT DUE. Tiny private attempt gate checked first; attempt31 and both successful NULL fields held. No early current/prior consent, ledger-ranking, count/fold, retry, reset or baseline seed. The core-only exact legacy-reference prerequisite remains separate from ordinary noncore/public/counting; no new question, core edit, checker test, marker, trim or reorganization.
+
+Audit date31/source3413db81aaf3fc0144514f8c2b6f3b48cede013e/raw1530/join1279/drain1532/chartnull stay held; unexported coordinates unknown. Harbor123/no waiting, chart empty, standing clear, gangway OPEN. **Next existing desk starts November1 8:00AM EST /13:00UTC: first census-eligible existing round.** Tiny attempt date FIRST; if not already attemptedNov1, save the attempt BEFORE census sources. NULL successful baseline means FIRST CENSUS/delta UNAVAILABLE, never seed from an arrival or cache. Counts-only usual report to actual Rei+confirmed human; advance success only after complete successful reads and report. Three guards/TWO welcome returns/ZERO page-old probes/seven PR returns continue. Scheduled start, not completion, welcome or publication timing.
 
 ## November1, 2026 1:00AM EDT scheduled desk check - NORMAL01/fire319
 
