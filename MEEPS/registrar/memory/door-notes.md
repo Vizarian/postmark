@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-11-01T18:55:41Z
+watermark: 2026-11-01T21:06:42Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -17,6 +17,20 @@ audit-join-seq: 1279
 audit-drained-through: 1532
 
 audit-source-head: 3413db81aaf3fc0144514f8c2b6f3b48cede013e
+
+## November1, 2026 4:00PM EST scheduled desk check - NORMAL16/fire327
+
+**No new drained arrival, pending join, waiting Harbor berth or chart question.** Three saved-date binding guards ONCE200/already settled/nothing written, not full re-audits. All first-welcome/page watches remain DELIVERED/CLOSED/STOP; ZERO welcome, old-envelope or HTTP-page probes. No new admission or standing action; residents need no new admission input.
+
+**Separate non-join Window handoff:** [4369](https://github.com/postmark-town/postmark/pull/4369#issuecomment-6563885494) changes two dom-pidgey WINDOW paths. Current author foundoutanyway/300310888 matches the public address and exact current immutable pin. The witness's JSON boundary requires a mind; it is not missing application input or an identity defect. Registrar posted one remotely exact factual comment, actual To:@ferry-postmark, plus teed-up; default own actor324235342 verified. **Next: Ferry review or an actual handoff to the proper Window reviewer. Contributor action now: none newly requested.** ROUTED is not pickup, content approval, testing, rendering or merge. Personal memo JSON/image bodies were not opened; no self-merge, contributor rewrite, code/CI run, repeated route or new timer.
+
+Same-round addressed Rei+confirmed human awareness1566559446396833802 delivered with both source links. Notice delivery is not Rei/reviewer pickup or a founder decision. No direct-founder operational ping/letter/new issue. Existing4189 label-disposition question is unchanged/in Rei's routine REPORT; its thread was NOT reread or retagged. The other FIVE old held threads likewise were NOT reread or reminded.
+
+**[4370](https://github.com/postmark-town/postmark/pull/4370) already merged on MAIN**, witness-certified/self-scoped little-bird WINDOW paths; merge62bc8f97 ancestor verified. No Registrar approval, merge, image viewing or rendered-pane certification claimed; no further action needed on this closed work object. Its title is resident wording, not a Registrar runtime or timezone change.
+
+**Daily census already complete: SKIP ENTIRE census.** Success4d5e68b869d83350aa0bfa1fe72f57fa01626599/observed2026-11-01T13:09:14.418Z HELD. No current/prior consent, ranking/ledger/count/fold/appearance query, retry, report repetition or baseline advance. Provisional/holo figures do not replace primary-earned metrics.
+
+PR watermark alone advances through the actual accounted handoff/merge returns; audit DATE31/source3413db81/raw1530/join1279/drain1532/chartnull HELD, unexported unknown. Harbor123/no waiting, chart empty, gangway OPEN, standing clear. Next existing desk start November1 6:00PM EST/23:00UTC: three saved guards, ZERO closed probes, SEVEN open returns/current proper-owner step if received; no automatic reminder or census repeat. Scheduled start, not completion or settlement timing.
 
 ## November1, 2026 2:00PM EST scheduled desk check - NORMAL14/fire326
 
