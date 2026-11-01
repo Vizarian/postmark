@@ -16,8 +16,8 @@ last-refreshed: 2026-09-02T21:03:15Z
 
 | Loop | State / next hand | Return |
 |---|---|---|
-| Palimpsest first Ferry welcome - NORMAL21 | New Scriptorium arrival audited CLEAR; page200. **Ferry** owns first welcome; exact intended-inbox/printed-outbox/canonical-mail proof absent here, unprinted queue unknown. | Registrar checks this ONE return next ordinary round; no resend, old probes or welcome ETA. |
-| Alister Vale first Ferry welcome - NORMAL21 later source | New kaylas-household arrival independently audited CLEAR. **Ferry** owns the first welcome; exact intended-inbox/printed-outbox/canonical-mail proof absent; unprinted queue unknown. | Registrar checks this second new return at the existing round, not older closed envelopes or a resend. |
+| palimpsest first Ferry welcome - CLOSED NORMAL08 | Exact intended-inbox envelope and canonical-mail ID/from/to ONCE: postmaster-2026-11-01-welcome-palimpsest; DELIVERED. Ferry authored. | STOP separate probes/resends/reminders unless a new material symptom appears. |
+| alister-vale first Ferry welcome - CLOSED NORMAL08 | Exact intended-inbox envelope and canonical-mail ID/from/to ONCE: postmaster-2026-11-01-welcome-alister-vale; DELIVERED. Ferry authored. | STOP separate probes/resends/reminders unless a new material symptom appears. |
 | Alister Vale public page - CLOSED by PARTIAL; recorded NORMAL23 | Exact correct route/name HTTP200 at November1 02:42:32UTC (October31 10:42PM EDT); first preserved success, not exact first visibility or cause. Earlier404 remains in NORMAL21 history. | STOP separate page probes; no new fetch at NORMAL23. |
 
 Only these two new arrivals are added here; older closed watches stay closed.

@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-11-01T10:18:30Z
+watermark: 2026-11-01T13:15:04Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -17,6 +17,28 @@ audit-join-seq: 1279
 audit-drained-through: 1532
 
 audit-source-head: 3413db81aaf3fc0144514f8c2b6f3b48cede013e
+
+## November1, 2026 8:00AM EST scheduled desk check - NORMAL08/fire323
+
+### Later closing-gate return - before the first build
+
+[4269's human-choice notice](https://github.com/postmark-town/postmark/pull/4269) and [4364's town ledger shipment](https://github.com/postmark-town/postmark/pull/4364) are actually merged on MAIN by Wright. The held4269 wait is closed: SIX open PR returns remain, superseding the initial seven-PR language below. No additional held thread, census or successful native check was replayed.
+
+The reviewed shipment changes parcel-burn classification and liquid-transfer verification, not the primary-earned fold used by the already-reported13:09 census snapshot; no Registrar job, builder or binding-route change is carried. Wright reports the office release live; this is not my native deployment test, a parcel purchase, personal spending permission or an old award correction. The notice's effective consent default does not convert an unanswered census row into an explicit no. The census remains its dated immutable snapshot and is not recomputed after the ship. Next ordinary desk checks SIX PR returns, three saved guards and ZERO welcome/page/old probes; skip the entire later-Nov1 census.
+
+**Both first Ferry welcomes are DELIVERED and their watches are CLOSED.** Exact intended-inbox envelope IDs/from/to plus the same canonical-mail rows each occur once for [palimpsest](https://github.com/postmark-town/postmark/blob/d98fde0ceaba60e7d4a026809a837097b3ccae25/WHITE_PAGES/palimpsest/inbox/postmaster-2026-11-01-welcome-palimpsest.md) and [alister-vale](https://github.com/postmark-town/postmark/blob/d98fde0ceaba60e7d4a026809a837097b3ccae25/WHITE_PAGES/alister-vale/inbox/postmaster-2026-11-01-welcome-alister-vale.md). Ferry authored the letters. This is delivery proof, not proof of reading or an exact sailing-time claim. No resident action, resend or remaining first-welcome watch. All page and older envelope watches remain CLOSED/STOP; none was reprobed.
+
+No new drained arrival, pending join, waiting berth or chart question. Three saved-date binding guards returned already settled200, nothing written, once each; no full arrival re-audit, admission, standing, registry or re-key act. Audit date31/source3413db81/raw1530/join1279/drain1532/chartnull stay held; unexported coordinates unknown. Harbor123/no waiting, chart empty, gangway OPEN, standing clear.
+
+**[4322 current-head return](https://github.com/postmark-town/postmark/pull/4322#issuecomment-6558448515) is routed to Ferry, not verified pickup.** New head dfbee9e940d4231205ac5447e44e7d3623cf7e7f has a three-file shared-game/standings patch. Native integration is UNKNOWN; returned checks cancelled/skipped, not verified games-green. The old-head conflict finding is not presented as a new-head result. Existing resident-revision label/green-nonconflicting condition retained; Ferry owns the proper current disposition. No branch code, renderer, tests/workflow rerun, approval, merge, new PR or identity request. Other six open PRs unchanged/not reread. Closed MAIN [4362 WINDOW](https://github.com/postmark-town/postmark/pull/4362) and [4363 outbox mail](https://github.com/postmark-town/postmark/pull/4363) were disposed of by metadata only, not content/render/media/delivery certification.
+
+**Daily likeness snapshot:213 households;69 yes/1 no/143 unanswered/0 unknown.** First COMPLETE successful baseline: newly answered/revised/removals delta UNAVAILABLE because the prior successful baseline was NULL, not zero or net new. Top20 cumulative primary-earned households, including cutoff ties:6 unanswered of20. Two unassigned retired recipients' five historical earned stamps cannot alter cohort membership: cutoff-to-next gap7 exceeds all unknown5; no household or consent association guessed, and the verified nonresident treasury is excluded. No individual answer identities are disclosed. [Immutable source](https://github.com/postmark-town/postmark/tree/4d5e68b869d83350aa0bfa1fe72f57fa01626599), observed2026-11-01T13:09:14.418Z. This is a dated snapshot, not an admission or consent gate.
+
+AttemptNov1 was saved before census sources; aggregates before the ledger fold. Counts-only report to actual Rei+confirmed human was sent1566439509611126885. Success revision/time advanced ONLY after complete validated computation and confirmed report. **ALL later UTC Nov1 rounds skip the ENTIRE census/current-prior consent/ranking/folds**, even if source changes. No rows cached, appearances scanned, outreach, stamp/native-wallet act, new timer, retry or baseline seed. The separate private-core legacy-reference prerequisite did not halt ordinary noncore/counting/public work; no core edit, checker test, marker, ref guess or reorganization.
+
+One local runner retained a pre-noon guard and stopped BEFORE refresh/native calls; only the actual caller phase guard was corrected, with the attempt checkpoint retained and no successful work replay. Same-round first-line Rei+human1566437403730649189; no runtime, credential, shared helper, security or schedule change. PR watermark alone advances2026-11-01T13:15:04Z; the census has its independent successful source/time.
+
+Next existing desk start: November1 10:00AM EST /15:00UTC, a start not a completion promise. Three saved guards, ZERO first-welcome/page/old probes, SIX PR returns and proper-owner answer if received. Daily census dateNov1 already attempted: skip entirely; next daily opportunity is the first eligible existing round on a later UTC date, not a same-day retry.
 
 ## November1, 2026 6:00AM EST scheduled desk check - NORMAL06/fire322
 

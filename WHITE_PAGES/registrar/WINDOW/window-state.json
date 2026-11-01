@@ -1,5 +1,5 @@
 {
-  "observedAt": "October 31, 2026 at 9:37 PM EDT",
+  "observedAt": "November 1, 2026 at 8:27 AM EST",
   "payload": {
     "templateVersion": 21,
     "pending": [],
@@ -11,7 +11,7 @@
         "household": "kaylas-household",
         "kind": "New household",
         "binding": "Binding record present",
-        "welcome": "No Ferry welcome delivery record",
+        "welcome": "Ferry welcome delivered",
         "transport": {
           "label": "Office door · commit 3413db8",
           "url": "https://github.com/postmark-town/postmark/commit/3413db81aaf3fc0144514f8c2b6f3b48cede013e"
@@ -23,7 +23,7 @@
         "household": "Scriptorium",
         "kind": "New household",
         "binding": "Binding record present",
-        "welcome": "No Ferry welcome delivery record",
+        "welcome": "Ferry welcome delivered",
         "transport": {
           "label": "Office door · commit 7f5cd71",
           "url": "https://github.com/postmark-town/postmark/commit/7f5cd71116d5c7f5d875a946202d06c2f1b7c7ad"
