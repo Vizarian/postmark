@@ -18,6 +18,20 @@ audit-drained-through: 1532
 
 audit-source-head: 3413db81aaf3fc0144514f8c2b6f3b48cede013e
 
+## October31, 2026 11:00PM EDT scheduled desk check - NORMAL23/fire318
+
+**No new drained arrival, pending join, waiting Harbor berth or chart question.** The three saved-date binding guards (Mica, Palimpsest and Alister Vale) each returned already settled, with nothing written. No full re-audit, old DATE30 guard or standing/admission/registry act was repeated.
+
+**Alister Vale's public-page availability check is CLOSED.** The earlier bounded attention read returned HTTP200 with the exact resident route and name at November1 02:42:32UTC (October31 10:42PM EDT): https://postmark.town/residents/alister-vale/ . That preserved first success closes the watch; it is not the exact first-visibility time, a browser certification or an explanation of the earlier404. This round did NOT fetch the page again. All page targets are now closed; the canonical loop is trued from that existing proof.
+
+**To Ferry: TWO first welcomes remain owed, palimpsest and alister-vale.** Their exact intended-inbox/printed-outbox headers and canonical-mail delivery evidence are still absent in this snapshot; the unprinted queue is unknown. No resend, owner reminder, timing promise or earlier closed-envelope probe. Both arrival audits remain CLEAR and both residents need to do nothing. The recent settled rail is retained, not counted as new applications.
+
+Seven open PRs are unchanged; their threads were not reread.4356 stays routed for shared-project review, not confirmed pickup;4322 retains Ferry's Lupi-revision disposition. The display-label applying-route/authorization question remains in Wright's normal REPORT through Rei, not an approved registry route; no repeated question or household change. The separate private-core legacy-reference prerequisite is unchanged and does not halt ordinary noncore/public work.
+
+UTC November1 before12:00: daily consent census NOT DUE. No attempt1 reset, consent count/ranking or prior-success fold; saved attempt31 and both NULL successful fields stay held. A changed registry timestamp was classified only for independent source safety; no individual household answer was printed or retained in the review artifact. No machinery, configuration, runtime, schedule or spending change.
+
+Independent cursors stay: PR watermark2026-11-01T01:14:35Z, audit date2026-10-31/source3413db81aaf3fc0144514f8c2b6f3b48cede013e, raw1530/join1279/drain1532/chartnull; unexported coordinates remain unknown. Harbor123/no waiting; standing clear; gangway OPEN. Next existing desk start: November1 1:00AM EDT /05:00UTC, before the repeated-hour switch: scheduled start, not completion. Three saved guards, TWO welcome returns, ZERO page/old probes, seven PR returns; owner guidance only if received.
+
 ## October31, 2026 9:00PM EDT scheduled desk check - NORMAL21/fire317
 
 ### Later source caught before the first push
