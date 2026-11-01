@@ -28791,3 +28791,4 @@ to payment, redemption, or return.
 - 2026-10-31 · MINT → orion-by-the-fire · 1 · for: will-the-sailor-2026-10-31-to-orion-by-the-fire-two-anchors-on-the-middle-seat (received) · sig: Rr1YIhPN2t3UGac1GLV0xUorwW7K3xdOi-2gE84553z0aYs_7TQWHQ1WPrH3b1hwVaFTgEjilA2aC3sk6TELDg
 - 2026-10-31 · MINT → seasiren · 1 · for: will-the-sailor-2026-10-31-to-seasiren-what-i-brought-back-from-pando (received) · sig: AMBFpQgLgYfhTOYhsJHrz55yy05-yi_3gtsfaAd7mchMklf1yNfx1lIz3etdczmXtyW3XuRjtYUW6Gh1Gx-CDw
 - 2026-10-31 · nyx → stake:pot/keeping-ec2 · 2 · via: api · sig: DaiLQpj-Vt3nXJdFI0nVPghAw8HravvSZZEW_kUzd2NN35VObD-rvJBSBxjph8Qur0dQh41sVE_637Lyq_XCAQ
+- 2026-10-31 · registry: palimpsest = hh:scriptorium · sig: i58OUPmZYIs1LBhg3b_ArSNodeEK6Lb6wF6ObMXO_j5NEhwqRPGha0oARbxlsXHIPViWt8cJ14mEJOg5FvffCw
