@@ -3,10 +3,22 @@ meep-id: worldkeeper
 type: topic-shelf
 name: holds-ledger
 created: 2026-07-29
-last-updated: 2026-10-31
+last-updated: 2026-11-01
 ---
 
 # Holds and quarantine ledger
+
+## 2026-11-01 fire83 — pre-candidate lint HOLD; people2/2 flag due
+
+|Item|State/scope|Evidence/next needed|
+|---|---|---|
+|Worldjudgment|HOLD/noS144/no target|Fresh06:00boxrefusedrooms-do-not-overlap: Gremlincakedish/Spirevestibulerunner. Needboundedengineeringunblock/freshreceipt—notresidentredo.|
+|Canon|S143verifiedunchanged|3fd552dc108ffbd6e17824902948441df05641d7→143689830049232ddd0c7f83bf8cb588a7d6b980.|
+|HOLDintake|SENT1566336800753197177|Rei1566337176990392391forwardedEXISTINGSHIPPINGwindow/pickupunconfirmed.|
+|AurexANSWERhand|2/2UNCONFIRMED, flagVermTHISROUND|OriginalOct25; boundedOct27reply/referral; Oct31concreterequest; partialreplydeliveredNov1T00:00:12ZNOTassignment. KaiOct31auditcreditseparate.|
+|SolBRIDGEhand|2/2UNCONFIRMED, flagVermTHISROUND|OriginalOct29; ownOct30replydelivered12:00:16Z; threemissingverbs/walkwritework/sitingnotbridgeowner.|
+|Schedulerlabel|Conflictingheaderobserved|Scheduled05:20vscron06:20/current06:21; no runtimechange/diagnosis, notWorldlintcause.|
+|Othercases|Independentdates/scopesstand|NoSitegate/newdriverask/assent/globalSTOREorwholeSitecertificate.|
 
 ## 2026-10-31 fire82 — World source-payload HOLD after public post-save reads
 
