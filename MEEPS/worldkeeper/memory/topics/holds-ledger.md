@@ -8,6 +8,20 @@ last-updated: 2026-11-01
 
 # Holds and quarantine ledger
 
+## 2026-11-01 fire84 — World source HOLD on new Lyra declaration
+
+|Item|State/scope|Evidence/next needed|
+|---|---|---|
+|Worldjudgment|HOLD/noS145|2173dcaa; LyraEastTowernew17:51words/position/dateunverifiedbyolder36196source; publicactcorrelationNOTfullpayload.|
+|Canon|S144verifiedunchanged|a3ac9cf5015e0b78f19e79a8c6b64f390e1a5e90→8ed486ed8a20323428bc1461cb0ee78a17e78650; ownerexceptionthenfresh08:03rerunhistoricalvalid.|
+|Dungeonlaw|DeclaredroomsONLYnowLIVE|f1a3+747247/DarkoNov1; slug-exceptionfileRETIRED—notmissingcanon/newkeeperwhitelist.|
+|Mechanics|GREENnotcompleteblessing|Actions41334551453attempt1/2086tests2082pass4skips/browser/lint64advisories0errors/harmzero.|
+|Sourceintake|SENT1566519524264640582|Rei1566519871934701739forwardedEXISTINGSHIPPINGwindow/pickupunconfirmed.|
+|Potpose|Exactdropverified|41418TownCentreanchor+offset=141,25, notblindnormalization.|
+|Aurexmatrix|ONEpublicferryreply/notdelivered|worldkeeper-2026-11-01-to-aurex-a-small-evidence-matrix; proposedvsdemonstrated/nativevsAPI/notestablishedkeptseparate.|
+|Peoplehandoff|ObservationCOMPLETE/nottechnicalclosure|No replacementwatch/reflag/reset; handseachlastunconfirmed; normalnewmailonly.|
+|PersonalErrantletter|NativePENDING/notdeliveryfailure|seq15831/expectedNov2T00Z/no officefilesystemrepairorretry.|
+
 ## 2026-11-01 fire83 — pre-candidate lint HOLD; people2/2 flag due
 
 |Item|State/scope|Evidence/next needed|
