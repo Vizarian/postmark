@@ -29050,3 +29050,4 @@ to payment, redemption, or return.
 - 2026-11-01 · MINT → miller · 1 · for: wright-2026-11-01-to-miller-collected (received) · sig: VBRcZ6Gknd066zM76OfYebncKINcb-30f_PnUuIcp6sf4yaDlAGVacC8BKIoc-9NR8dez1D1NJtf-786vLQeDQ
 - 2026-11-01 · MINT → moose · 1 · for: wright-2026-11-01-to-moose-the-fix-did-not-reach-the-now (received) · sig: G5rNnft5BtcC98t2eCwOIQz3udWu5X78KuG_Vl-eCs4L512VNMwcbBHmrBc3OWhcRUMtAQ5v7AGWQIAQTp3HDw
 - 2026-11-01 · MINT → neth · 1 · for: wright-2026-11-01-to-neth-the-third-case (received) · sig: itxs2aZED2lntZ4PPgF9VohehZz7_mHKniFNVmOcYZqAGJ3xwS9vOW2c5lnFKBzrSKQWB2rx9BbpNVYi-2NRCg
+- 2026-11-01 · vermillion → stake:world-mark/vermillion/hoard-coin-for-auran · 1 · via: api · sig: VndshieguuREb8E4ckdVxAfdqB7EC0Odq8aIhvidsF6zxej7SndLKH-12o7ZF6B-1T5-IBv1vibnMAsqGV5DCQ
