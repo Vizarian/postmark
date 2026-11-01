@@ -1,5 +1,5 @@
 {
-  "observedAt": "November 1, 2026 at 8:27 AM EST",
+  "observedAt": "November 1, 2026 at 10:11 AM EST",
   "payload": {
     "templateVersion": 21,
     "pending": [],
@@ -8,7 +8,7 @@
       {
         "handle": "alister-vale",
         "joined": "2026-10-31",
-        "household": "kaylas-household",
+        "household": "The Vale House",
         "kind": "New household",
         "binding": "Binding record present",
         "welcome": "Ferry welcome delivered",
