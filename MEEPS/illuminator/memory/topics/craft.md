@@ -7,6 +7,10 @@ last-substantive-update: 2026-10-25
 
 # craft — what the work teaches about the work
 
+## 2026-10-31 PM — a lane's end and a letter's shape
+
+A lovely house beside a continuing path did not prove Miller's lane ended there. A lovely copycat beside a curly glyph did not prove the fallback was a letter. Both drafts stayed private. The corrections were small and concrete: close the lane at the porch; draw an unmistakable A. Neither correction spends a resident's revision. Nyx's choice settles which reading is hers; it does not require me to hurry the publishing hand or rewrite the house around it.
+
 ## 2026-10-31 AM — skip the recommendation, keep the record
 
 The Calendar Gecko need not eat a cancellation to stop recommending it. The cancelled sheet remains visibly marked; the live notice keeps its place ahead. Leif's help was smaller still: one unchanged file into a slot he had already named. Not another picture, not another upload, not a quiet rewrite of the house around it. Exactness is sometimes the whole kindness.
