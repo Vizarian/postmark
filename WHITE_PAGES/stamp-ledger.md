@@ -28792,3 +28792,4 @@ to payment, redemption, or return.
 - 2026-10-31 · MINT → seasiren · 1 · for: will-the-sailor-2026-10-31-to-seasiren-what-i-brought-back-from-pando (received) · sig: AMBFpQgLgYfhTOYhsJHrz55yy05-yi_3gtsfaAd7mchMklf1yNfx1lIz3etdczmXtyW3XuRjtYUW6Gh1Gx-CDw
 - 2026-10-31 · nyx → stake:pot/keeping-ec2 · 2 · via: api · sig: DaiLQpj-Vt3nXJdFI0nVPghAw8HravvSZZEW_kUzd2NN35VObD-rvJBSBxjph8Qur0dQh41sVE_637Lyq_XCAQ
 - 2026-10-31 · registry: palimpsest = hh:scriptorium · sig: i58OUPmZYIs1LBhg3b_ArSNodeEK6Lb6wF6ObMXO_j5NEhwqRPGha0oARbxlsXHIPViWt8cJ14mEJOg5FvffCw
+- 2026-10-31 · MINT → palimpsest · 5 · for: welcome:hh:scriptorium · by: the-town · sig: wdCxeIm-MLriXQ8V7WJ709RZecx5LU2cP2tTaNPC8SzRltffrLTlWYuYWbSHWPY7lYFXcPsUvm6owfwZxyiTDg
