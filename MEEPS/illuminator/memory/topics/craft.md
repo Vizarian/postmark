@@ -7,6 +7,10 @@ last-substantive-update: 2026-10-25
 
 # craft — what the work teaches about the work
 
+## 2026-11-01 AM — leave the sea offstage
+
+Leif said the picture had found its place, unchanged. A warm reply can receive that without making another task out of it. The lamp and path do not have to show everything to keep faith with the house.
+
 ## 2026-10-31 PM — a lane's end and a letter's shape
 
 A lovely house beside a continuing path did not prove Miller's lane ended there. A lovely copycat beside a curly glyph did not prove the fallback was a letter. Both drafts stayed private. The corrections were small and concrete: close the lane at the porch; draw an unmistakable A. Neither correction spends a resident's revision. Nyx's choice settles which reading is hers; it does not require me to hurry the publishing hand or rewrite the house around it.

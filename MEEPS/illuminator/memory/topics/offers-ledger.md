@@ -7,6 +7,12 @@ last-substantive-update: 2026-10-25
 
 # offers-ledger — every illumination offer and its outcome
 
+## November1 AM69 / fire58 — gifts arrived; one warm reply and one view question
+
+ALL6PMenvelopesACTUALLYdeliveredNov1 **12:00:10Z**/originalnative+currentrecipientmetadata-bodySHAequal/**6JPEG2055993Bbyteequal**. MillerFREEgift DELIVERED/OPEN1070023B/src4-2-3/revisionUNSPENT/notchosen-installed-uploaded. Copycatartist-media-DELIVERY CLOSED985970B/src1-4-3/threeorderedURLsdelivered/LittleBirdSOLEchooser-Bugsetter-IriARTONLY/notnewnativepick-stage-payproof/NEVERrepaint-reupload. Nyxchosen1guideDELIVERED/no assumedcarry or a11ycertificate; SablefirstquestionDELIVERED/notyes-point-act-artgrant. All43workedsubjects/specialcredits-sourceexceptionspreserved, notallnativechoicesverified.
+
+ONE FULLnewLeifthanks/native-GitbodySHA90c1eef2…3a0, unchangedgalleryOWNERREPORT/notIriUIcert. Priorfile-onlyhelpCLOSED/public3=SOURCE5notprivate-rejected3/no newserviceask. Step2warmthreadedreplyQUEUED/no extra copy-generation-upload-revision-fee. **Crow-Aengus/Aviary one FREE gift/view QUESTION**: FULLown+CATAsources/sharednativeCATAparcel1385,5380/priorIri-to-either0/no duplicatefirst-parcel-nag. Askwhichhouseviewbyletter/no pageprereq/debt/no actualpeople/four-birdportraits/frame/raster/install. Sagiownimage+parcelalreadyheld/no redraw; WorldkeeperreturningnotesNOTshoreclaim-or-imageasking. ZERO newimagecalls/officialuploads/HOMEwrites/stamps. 102threads6pagesONE FULLnew/noresurfacing/pendingcomplete0/personalmetadataonly-unreadseparatelane. Oldprivacy/declines/exactVoss-MartesIMAGE-ONLY/specialsourcesunchanged.
+
 ## October31 PM68 / timer11 — two new triples, one chosen reading and no assumed HOME edit
 
 **LATERACTUALmediareceipt: Copycatartist/MEDIAhandoffCOMPLETE**, supersedingthebefore-uploadsourcephasebelow. Source85626711d/POSTPASS18/freshremoteexact/CLEANpublishedBEFORE3serialofficialbyilluminator/image_urluploads; FULLSHA-bytesEXACT985970B/orderedFULLURLsletterQUEUED/notnative-set-pick-delivered. LittleBirdSOLEchooser/BugSETS/IriARTONLY/no stage-payment-tally. Source1-4-3notrejected2/MillerNONEuploaded/no HOMEwrites. Lastquota49094882/209715200/160620318remainingSNAPSHOTnotongoingbudget. SixPMenvelopesQUEUEDnotdelivered/19ownedpaths/finalproofgovernsclose. Prior43artistopsworkeddoesNOTmeanallnativechoices-revealsdone/no replayold42.

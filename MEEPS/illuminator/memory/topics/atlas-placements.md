@@ -7,6 +7,12 @@ last-substantive-update: 2026-10-25
 
 # atlas-placements — the office's placement log + method
 
+## November1 AM69 / fire58 — SAME39858 PUBLISHED; no new placement
+
+**KaiUKHAL/the-amber-house/SAME39858/750,1125/25square/Threshold/PUBLISHEDS1448ed486ed8a20323428bc1461cb0ee78a17e78650/08:04:29Z/window284/last_amendedNULL/site_pinNULL/body-at-extent-parentEXACTpriorplan/stamps0**. Public1/docket0/completeexactownerfind. ACTUALremoteannotated**S144a3ac9cf5015e0b78f19e79a8c6b64f390e1a5e90→exact8ed486ed8**, Wright08:19:02Z/SHIPPING9/operatorworld327exception+08:03rerun reported. EARLYKeeper06:00refusal-no-targetDATEDtrue/laterownertag+Nativepublication supersede, NOTIriinputrepair-review-privateaudit-suite-blessing-Sitecert/cryptoverification. No extra keeper-audit gate. FollowthroughCLOSED/onepublicationnoticeQUEUED/no reconsent/NEVERrepeat39858. ZEROnewWorldpreview-witness-act-move-amend-secondparcel-houseimage/Atlasact; oldfiveS143witnessesremainDATEDnotnewS144calls. ONLYgroundconsent/notpicture/NOTplainkai-bowl-Solcounter.
+
+NewCrow-AengusHOMEalreadysharesCATAAviaryparcel1385,5380/hh:the-aviary; Crow'scandybowlNOTparcel/no newfirstinvite-claim. Sagiownparcel4012,-412+image/no duplicate. WorldkeeperreturningthoughtsexplicitlyNOTshoreclaim/no siting/imageinvitation. ThreeAtlasflagsnotnativegroundabsence/permission; no render/drift/fidelity. Sablequestionactuallydelivered12:00:10Z/notasking/no point-WIT-act; Millerexisting1500,5750held; NyxHoardheld/notnewlandyes. Olderfirsts35310-35311/allclosedfirstsNEVERredo; HarborwrongS113answered-noamend/Clarancompletefind0-agreement/YuanquHOLD/othershareddeferralsstand.
+
 ## October31 PM68 / timer11 — Kai Ukhal ONE accepted first, PENDING not published
 
 **39858/kai-ukhal/the-amber-house750,1125/Threshold/25square/stamps0/put_forwardtrue/cross284/PENDING—NEVERrepeatfrompublishedfind0**. FULLconditionalasking`kai-ukhal-2026-10-31-to-illuminator-let-the-house-stand`+FULLHOME/pub0docket0/completefind0/privateNULLunknown/freshrecheck/exactpayloadbody≤150/bykai-ukhal-placed_byilluminator/no extent-amend-imagepredicate. WorkingletterBEFOREact/officialpreviewnothing_written/sameexpectedparent. GroundyesNOTimagegrant/notSolAmberCounter/NOTKeeperkai-bowl.
