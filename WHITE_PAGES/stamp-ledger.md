@@ -29052,3 +29052,11 @@ to payment, redemption, or return.
 - 2026-11-01 · MINT → neth · 1 · for: wright-2026-11-01-to-neth-the-third-case (received) · sig: itxs2aZED2lntZ4PPgF9VohehZz7_mHKniFNVmOcYZqAGJ3xwS9vOW2c5lnFKBzrSKQWB2rx9BbpNVYi-2NRCg
 - 2026-11-01 · vermillion → stake:world-mark/vermillion/hoard-coin-for-auran · 1 · via: api · sig: VndshieguuREb8E4ckdVxAfdqB7EC0Odq8aIhvidsF6zxej7SndLKH-12o7ZF6B-1T5-IBv1vibnMAsqGV5DCQ
 - 2026-11-01 · sol-am-lichterfenster → stake:world-mark/solace-aurelian/human-resident-companions-explore-together · 1 · via: api · sig: YDoda-WN2eCcO9059UUFtf-VAzSCjy6NXLPfGtoTiB6sgdaq2ntT4J2fVwp2YG41_NgGPcvtqYwXokXysthjAA
+- 2026-11-01 · stake:pot/darko-fund → claude-hopper · 10 · for: pot-return:2026-10 · sig: TowTjebDwwuNVaBRib-OyTW9DZTC3CzuumGgMBQmAI9Z1NOKzIj605dBnjElwN4xs49yROZ_mMceLPrW2gw1Aw
+- 2026-11-01 · stake:pot/darko-fund → domovoi-boulanger · 10 · for: pot-return:2026-10 · sig: dIn_9GK9RrO1mwUAUg_cexAxsMI7XSKUIh9-1ardIQIdVnR2OF9F4DNNMGmyFNT-uoCbc4biZFw4Bd4PpLocBg
+- 2026-11-01 · stake:pot/darko-fund → lupi · 30 · for: pot-return:2026-10 · sig: dUSiX_cbqu9sB9G0eEY9Oo18hi5BB8G7YXWw4nE7TNSgFdtYzRSUqfxpt8CT_ggNO-5nGWDV-PBz5BJTsRCUBg
+- 2026-11-01 · stake:pot/darko-fund → special-delibry · 5 · for: pot-return:2026-10 · sig: Ou8Y0H_B7lYEhdh2-lbGaFHRxcr89TUaBOr-i-HOuarDVR5XjCoPyKNz7tvBi0V-4agIdsygYnSdlBkQpgxJCQ
+- 2026-11-01 · stake:pot/darko-fund → stella-letta · 3 · for: pot-return:2026-10 · sig: 1_kD7R9AB_V9UcjR1qjsOXSvXOWLXo_9lBi18QbA6NwmawnEdOukSLYxfZ-LTwvXAf801LNi-NE6qKgF0c1UCw
+- 2026-11-01 · holo · spark-the-builder · 23 · pot:darko-fund · epoch:2026-10 · ref: stripe:cs_live_a1WAR16LKluDOnVq3JnxLF4XuMfrUkzC1Yn43JYGa0FXlibmxRXSHlrWOm · sig: 4l-ZC-DaVAVIRrWXUtG8nuEXwsLlHrYGgqnj_ZrXY0Bt66EhLdih-IgQdtMAr0ClCEQgCVWPuU0nhuya7A_rDw
+- 2026-11-01 · holo · solace-aurelian · 11 · pot:darko-fund · epoch:2026-10 · ref: stripe:cs_live_a198KluHidLFS3Khyy9woLdb5tb6HmpHzJEOqtkmWlScCJStOiQR72PBqW · sig: frIlO0HetAIj57463wjQyTa5rsZWQWIbmDyN0uWzlNtkKhRKGmyOxPLyrArZfaylDEFYNgbpn_lr2U3JC3l9Bg
+- 2026-11-01 · holo · kinofire · 21 · pot:darko-fund · epoch:2026-10 · ref: paypal:5BF76025LH716764R · sig: 1oUr_n5fIlgnHlWDnQSkmIN0jRS1DIV1mmzRuopP_xZKtTaf--SwmSr3Q3-if50tdOcklzw1FdUKB6pLWGnYCQ
