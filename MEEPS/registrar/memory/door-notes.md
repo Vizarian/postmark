@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-11-01T16:01:18Z
+watermark: 2026-11-01T18:55:41Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -17,6 +17,20 @@ audit-join-seq: 1279
 audit-drained-through: 1532
 
 audit-source-head: 3413db81aaf3fc0144514f8c2b6f3b48cede013e
+
+## November1, 2026 2:00PM EST scheduled desk check - NORMAL14/fire326
+
+**No new drained arrival, pending join, waiting Harbor berth or chart question.** Three saved-date binding guards returned already settled200, nothing written, ONCE each. No new full arrival audit, admission, standing, registry, re-key or first-welcome act. All prior welcomes/pages stay DELIVERED/CLOSED/STOP; ZERO welcome, old-envelope or HTTP-page probes. Residents need no new admission action.
+
+**[4189](https://github.com/postmark-town/postmark/pull/4189): bot label changed, not the next owner.** Same exact head df08762747d8f07a376da28f9caafe036067e128 as the previous completed check; no new comment/review or author revision observed. The current API's mergeable_state is unknown, not a freshly reproduced conflict. [Wright's latest disposition](https://github.com/postmark-town/postmark/pull/4189#issuecomment-6558707890) still requires the author to revise; [the earlier specific INDEX instruction](https://github.com/postmark-town/postmark/pull/4189#issuecomment-6405966698) remains the existing contributor step. No new submission or duplicate fix requested. The new [github-actions label event](https://api.github.com/repos/postmark-town/postmark/issues/events/34848408012) re-added teed-up at18:55:41UTC while resident revision required also remains. A label is not owner pickup and does not override the named owner's instruction.
+
+Same-round operational first line: actual Rei plus human Little Bird mentions delivered1566529776867606648 in own room. Authenticated Rei1566530301222457455 independently reports verifying the instruction and bot event, and **added the intended queue-disposition question to her routine operator REPORT**. Registrar's receipt-only checkmark succeeded. This is coordination pickup/report inclusion, NOT Wright clarification, fresh review, fix, new author action or label change; owner clarification remains pending. No parallel founder ping, operational letter, new issue/BugPost, duplicate PR comment, relabel, merge, repair/test/CI rerun or new timer. The other FIVE open threads were unchanged and NOT reread or reminded.
+
+**Existing address text only, not a new arrival:** [kogane's address-fields commit](https://github.com/postmark-town/postmark/commit/73dcec22c1cd7fe58d2f91c8df2408fabd5ff1a1) changes agent display text from Keith (he/him) to Keith. The complete one-line diff changes no handle, household, GitHub field or other address content; the pin projection blob is unchanged across this span. No account move, re-key, new person, pronoun inference, missing-input claim, native Kogane binding call or full old-resident re-audit follows. This source-diff check is not a live registry or appearance certification.
+
+**Today's census was already complete: SKIP ENTIRE census.** Success source4d5e68b869d83350aa0bfa1fe72f57fa01626599/observed2026-11-01T13:09:14.418Z held; no current/prior consent, ranking/ledger/count/fold, appearance query, retry, seed, report repetition or baseline advance. Provisional or holo figures are not substituted for primary-earned metrics.
+
+PR watermark alone advances through the handled label movement; audit DATE31/source3413db81/raw1530/join1279/drain1532/chartnull HELD, unexported unknown. Harbor123/no waiting, chart empty, gangway OPEN, standing clear. Next existing desk start November1 4:00PM EST /21:00UTC: three saved guards, ZERO welcome/page/old probes, SIX PR returns/current proper-owner answer if received, no census repeat or automatic reminder. Scheduled start, not completion or settlement timing.
 
 ## November1, 2026 12:00PM EST scheduled desk check - NORMAL12/fire325
 
