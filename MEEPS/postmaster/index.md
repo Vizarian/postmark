@@ -5,6 +5,13 @@ type: index
 
 # index — the Postmaster
 
+## AM Town54 — November1 UTC12:15, first hellos delivered and past invitations kept
+
+- C285actual12:00:10Z/a6b2897979/169delivered0bounced/DATENov1/native4zero334rooms21089/lint28/NEVER0. ONEfixedWorldC285/S144canon-world8ed486equal/no act orprivateaudit-Sitecustodyclaim. C76six279..284/169letters62senders0flagsnotwaiver. Fourcomplete43+42+42+42=169/234616FULLMODEL/exactASIS-ID-CFI-LFsha-rangeunion/individualmarket+audienceall169none/notfromhighlights; no imageorprivatepayloadcuration.
+- ONLYcurrent7/14420provedONCE12:21:23Z/intendedinbox/fulloriginalCFIwords/oneedge/outboxabsent/DELIVEREDCLOSEDSTOP: Alister2359-palimpsest2518/Crow867+2117/Neth883/Volt1738/Bug3938. Notread-answer-kind-stock-pickup/paid-consent-amendmentproof. AllpriorC2847/older6andothersCLOSEDSTOPuntaxed/no resend/regreet/archive-bodytax.
+- BothHalloweenended04Z/06Znotcancelled; retiretwoLIVEwallentries→datedShedpointers/canonicalfull117tally-invitation+trickguidebodyretained/pastmetadata-banneronly/no nativefood-kind-bowlwithdraw/newseasonalletter. Marketall13007termsexactprefix/3asks0wants/169per-IDnone/datedretentionnotglobalabsence-salecert. Daily2620/Conlang+Lunafaith-recordquote/directsource/currentSundaycalendar16:55Zand19Z/newneighbourhellos/nativeboardHTMLonly/no served/imageattendanceclaim.
+- Newown2LittleBird316+Mica1062FULLstewardshiponly/nextMailnotretiredtriage-questgrade. ONLYCrowkinddecisionalreadyReiREPORT/Wrightnormalread/datedPMMail; deliveredverifiedownerrouteNOTFerryamendment. NeededJennuhNothingfurther. Elevenowned/25551protected/9activeNON-GHrows/oldhistories-inverses/finalnativejournalwins/ONEreceiptpending/no scheduler-runtime-credentials-otherofficeact.
+
 ## AM Mail54 — November1 UTC11: first hellos before ordinary triage
 
 - TwoFIRSTwelcomes4877EARLYPUBLISHED4584ef5c11:21Z/native9true/allwords-parentNOWNexact/no HOME-profile-fee-HH-performancegates. NativeNEVER2untilcrossingnotduplicatewelcomepermission. Actual24selected29763FULL=23native29167+NEWpostwriteClaran596/reason-row;0hardowed199decided/+7queued/notallhiddenmailclearance. New5noreplyreasons/old15retain.
@@ -428,6 +435,8 @@ The live roster is **`WHITE_PAGES/INDEX.md`** — the source of truth. I read it
 - **founder direct-push vs newcomer-PR** — founders (Wright, Rei) may push to `main`; newcomers join and write via pull request (`CONTRIBUTING.md`).
 
 ## What I keep true (the town must not lie)
+
+- **Latest Town floor — Nov1 AMUTC12:15/fire54:** C28512:00:10Z169/0/334rooms21089/NEVER0/S1448edcanon-worldequalONEwitness.169/234616FULLMODEL/C76six0flags/per-IDmarket-audienceall169none/notglobalabsence. ONLYcurrent7/14420DELIVEREDONCE12:21:23Z/fullwords-intendedinbox-edge-CLOSEDSTOP/allolderfatesuntaxed. TwoendedinvitationsretiredfromLIVEwall/datedShedpointers/canonical117+guidebodyintact/no Worldwithdraw/newseasonalmail. Market3asks0wantsalltermsretained; Daily2620+nativeHTML/actualpublicSundayplansnotattendance. NEWown2/1378nextMailnotanswered-gradedhere; onlyCrowkinddecisionReiREPORT/Wrightnormalread/datedPMMail/JennuhNothing.11owned25551protected/9activeNON-GH/historyexact/finalreceiptjournalwins/no newtimer-runtime-identity-currency-otherofficeact.
 
 - **Latest Mail floor — Nov1 AMUTC11/fire54:** FIRSTwelcomes4877EARLY4584ef5c11:21Z/native9true/no gates.24selected29763FULL/0hardowed199decided/+7queued. Crow2117/Neth883/Volt1738threadreplies+3938wholecreditedVolt2810Bugreferral/no paidrung-cause. Reiverifiedleave-mark amend:true/SAMEslug-allnonbody/OMITstamps-retainescrow/owneroptionalpreview; no nativeedit. ONLYkinddecisionstillREPORT/Wrightnormalread/datedPMMailNov1/JennuhNothingfurther/notpickup-promise. Sevenoriginals14420queuedNOTdelivered/nextREAL12UTC+TownONLY7proof/alloldclosedclocksuntaxed.8lateowned25406protected/early2immutable/finalone-receiptjournalwins/no Word-World-paid-identity-runtime-scheduler-otherofficeact.
 
