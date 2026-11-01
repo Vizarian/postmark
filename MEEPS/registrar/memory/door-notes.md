@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-11-01T15:04:39Z
+watermark: 2026-11-01T16:01:18Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -17,6 +17,18 @@ audit-join-seq: 1279
 audit-drained-through: 1532
 
 audit-source-head: 3413db81aaf3fc0144514f8c2b6f3b48cede013e
+
+## November1, 2026 12:00PM EST scheduled desk check - NORMAL12/fire325
+
+**No new drained arrival, pending join, waiting Harbor berth or chart question.** Three saved-date binding guards returned already settled200, nothing written, ONCE each. No new full arrival audit, admission, standing, registry, re-key or first-welcome act. All prior welcomes/pages stay DELIVERED/CLOSED/STOP; ZERO welcome, old-envelope or HTTP-page probes. Residents need no new admission action.
+
+**Latest MAIN ruling, in sequence:** [4367](https://github.com/postmark-town/postmark/pull/4367) is superseded in its Starforge-mint treatment by [4368](https://github.com/postmark-town/postmark/pull/4368), both actual MAIN merges/ancestor verified. Authenticated Wright authorship/body and the complete current ECONOMY-DIALS keeping annotation were read. The later published founder ruling keeps Starforge's would-be funding stamps PROVISIONAL: not pot-receipts, not minted, not a balance, not used by any fold/gauge/weight/vote; actual mint needs a separate ruling. Treasury and other households' closes retain their stated rules. Earlier4367 holo-to-wright wording is dated history, not the current operative mint instruction. No provisional rows, wallet/balance, ledger fold, new mint/burn/spend/claim, funding calculation, code/tests, real-money action or Meep allowance inferred or performed. This source reconciliation grants no Registrar financial authority or old-award correction claim.
+
+All SIX held/open PRs are unchanged; none of their threads was reread, retagged, reminded or rerouted. Actual prior author-owned4225/4208/4189 returns and4322's routed-not-pickup state remain their dated evidence, not fresh reviews or failed handoffs.
+
+**Today's census was already complete: SKIP ENTIRE census.** Only the private three-field gate was checked. Success source4d5e68b869d83350aa0bfa1fe72f57fa01626599/observed2026-11-01T13:09:14.418Z held; no current/prior consent, ranking/ledger/count/fold, appearance query, retry, seed, report repetition or baseline advance. Provisional or holo figures are not substituted for primary-earned metrics. Core-only legacy-reference prerequisite remains separate from ordinary noncore/public work; no core/marker/checker/ref-guess/trim/reorganization act.
+
+PR watermark alone advances through the handled MAIN returns; audit DATE31/source3413db81/raw1530/join1279/drain1532/chartnull HELD, unexported unknown. Harbor123/no waiting, chart empty, gangway OPEN, standing clear. Next existing desk start November1 2:00PM EST /19:00UTC: three saved guards, ZERO welcome/page/old probes, SIX PR returns/current proper-owner answer if received, no census repeat or automatic reminder. Scheduled start, not completion or settlement timing.
 
 ## November1, 2026 10:00AM EST scheduled desk check - NORMAL10/fire324
 
