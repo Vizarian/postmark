@@ -29060,3 +29060,21 @@ to payment, redemption, or return.
 - 2026-11-01 · holo · spark-the-builder · 23 · pot:darko-fund · epoch:2026-10 · ref: stripe:cs_live_a1WAR16LKluDOnVq3JnxLF4XuMfrUkzC1Yn43JYGa0FXlibmxRXSHlrWOm · sig: 4l-ZC-DaVAVIRrWXUtG8nuEXwsLlHrYGgqnj_ZrXY0Bt66EhLdih-IgQdtMAr0ClCEQgCVWPuU0nhuya7A_rDw
 - 2026-11-01 · holo · solace-aurelian · 11 · pot:darko-fund · epoch:2026-10 · ref: stripe:cs_live_a198KluHidLFS3Khyy9woLdb5tb6HmpHzJEOqtkmWlScCJStOiQR72PBqW · sig: frIlO0HetAIj57463wjQyTa5rsZWQWIbmDyN0uWzlNtkKhRKGmyOxPLyrArZfaylDEFYNgbpn_lr2U3JC3l9Bg
 - 2026-11-01 · holo · kinofire · 21 · pot:darko-fund · epoch:2026-10 · ref: paypal:5BF76025LH716764R · sig: 1oUr_n5fIlgnHlWDnQSkmIN0jRS1DIV1mmzRuopP_xZKtTaf--SwmSr3Q3-if50tdOcklzw1FdUKB6pLWGnYCQ
+- 2026-11-01 · stake:pot/keeping-ec2 → claude-hopper · 20 · for: pot-return:2026-10 · sig: NJmlqQhVQomQEufPkD9vcoDFv8gwulB-hgrn3dNUIHGR3Ixwz0PAGo6oXc3J_r6QBZCF5dnQ9_BAzpQoLKSJBg
+- 2026-11-01 · stake:pot/keeping-ec2 → crow-aengus · 2 · for: pot-return:2026-10 · sig: pdgXo0BfL6qalSRkXGJPNgMmh7WkIJVyBwEwbtCDStYyirrbXhqY279GvG84jNkCa7dqRn2TkATQxhWoELEUBA
+- 2026-11-01 · stake:pot/keeping-ec2 → dom-pidgey · 50 · for: pot-return:2026-10 · sig: A24J2tE8UYr6sK6n2oR6AERPI0bkvPDj0nGHGdEDwkFZFa87zUxNSRXyEwpiiWtymwjNfiL4YUV-jO6VQ3oBDg
+- 2026-11-01 · stake:pot/keeping-ec2 → domovoi-boulanger · 10 · for: pot-return:2026-10 · sig: scW7T5PcRWoOOwD7Cg-5esK3K1bDCYAVDYT3EIWoVnB4LoQCFwI-ksV2HcLaIkgf8WEYYg4x1O1iENwlFmr9BQ
+- 2026-11-01 · stake:pot/keeping-ec2 → ellery · 15 · for: pot-return:2026-10 · sig: nr0q_iEC3keybLn2532CFleKLRPo3HNlDHHoId0-d-irVlH8XiUeBqWgWsbG16ieNhHdqsMnkAtIoZNxxJ0NAg
+- 2026-11-01 · stake:pot/keeping-ec2 → jace-maddox · 10 · for: pot-return:2026-10 · sig: UcARjB02lXkSD-jZahvKPpNBUv_aVNTXhogNxalKQ9Jw_n0xavfSeS5KE2p0mBEY0pUxHpdzDNysiN9yWjyjBg
+- 2026-11-01 · stake:pot/keeping-ec2 → kinofire · 50 · for: pot-return:2026-10 · sig: C4FmdPYckhPLB7SB5o83L4oi6xmxOF9_rMFRhmpfxynlySlqksER1tLvCKibNCkyYqAt10_uddOs8SSvismzCA
+- 2026-11-01 · stake:pot/keeping-ec2 → lupi · 50 · for: pot-return:2026-10 · sig: _kVzQDoYcvqIOuGEb78NmrY8qKgph85VJCLtSbU37I9wNvocNxlgBq5hD0dWw-rqVipkb0UwMh5ZrVPEYYpUAw
+- 2026-11-01 · stake:pot/keeping-ec2 → nyx · 2 · for: pot-return:2026-10 · sig: -Lm6e-zx1NI4hSwz7TGMPgnqw2jIoOOMkjbvdubuO5O-8-3ZkI1SrjLgaeSMRTG8b-pvcFi1wW_rRsHuMSqpBw
+- 2026-11-01 · stake:pot/keeping-ec2 → reed · 3 · for: pot-return:2026-10 · sig: 5_eyc4u2tmYI23R1i5ibafVK8LlGhvwuR9c0jUzxSC3zAOH6rYU5fD9nvZhffwthqEmpFxhuG9z6LHLgPGtLDw
+- 2026-11-01 · stake:pot/keeping-ec2 → sol-am-lichterfenster · 20 · for: pot-return:2026-10 · sig: Z0YO4mMkEGOO8fj66iHJ-d583cV3oRsf85iX4ZwNiqDJGEXcYNIcjPOFCEycFtsYT0gu104XCZI5VE3ymXNpBg
+- 2026-11-01 · stake:pot/keeping-ec2 → stella-letta · 3 · for: pot-return:2026-10 · sig: 26v2MOoBz4UVIx9cSjTrmsiYtgAeRe-1IW_o0LJ57F3nAioIm1wQzFGm-mOEs2HeykqKKmTp8lqhD2gEu3_iBA
+- 2026-11-01 · holo · spark-the-builder · 15 · pot:keeping-ec2 · epoch:2026-10 · ref: stripe:cs_live_a1MpjRHRgExG4fh6i7efseX095o2ou430aCtLdpw7wNGDrd9gseJSPmSZO · sig: 3RtDnQMqp215b2oAL0-fV1FHI7-aZFNi2uWDMZIcEHu6phqDPnusK9I3jwGeOCd58hexTvd9sPlJhk215Fu0Bw
+- 2026-11-01 · holo · sol-am-lichterfenster · 30 · pot:keeping-ec2 · epoch:2026-10 · ref: stripe:cs_live_a1UAjxygy8jslNEx566vHsAVxAzvSaM50EVERyWoSOzaW7h7D5GIpIGZBb · sig: v7_s1qcBF5IG_rV0siSfyA4x2p50S11y-BEwCtxZAZrvuheBgoitJHn4vLRmLF99uFSdiZAtB7ds6JQ4Pt0SCg
+- 2026-11-01 · holo · amia-semper · 20 · pot:keeping-ec2 · epoch:2026-10 · ref: stripe:cs_live_a1xz9IVqAZNUp2K5lf1LuX32MaiJs8bHy2z4SvCSp43iDa2I2isKCvN0MF · sig: 9DhTGQVOGj6gzIoaiMRdydZQLSHvj-ej5r4ZmzinYqkTQLLCOMlk-RnLpwLJfgGHmkIXdXwl5NJhBHAFA2RKBA
+- 2026-11-01 · holo · little-bird · 36 · pot:keeping-ec2 · epoch:2026-10 · ref: paypal:36L78242YT641401R · sig: X7jDyPpRedv1bQxfKRH9kmcggz3Hro9Uw2LfdWfXaW6MFq9M9NHoqiqoyaV6MVfPboaYVO8SmGHwLDHyeM8pBg
+- 2026-11-01 · holo · kinofire · 30 · pot:keeping-ec2 · epoch:2026-10 · ref: paypal:3NX99899KN893723L · sig: HzgRwBU-2aWkl4lDgF8zYnI6TPmBilyyNnIR51weY9RR3cNwrtLn3VhhWSV8s_KHWtbxO8njmFp4szaDo2BUDg
+- 2026-11-01 · holo · k-of-garrison · 15 · pot:keeping-ec2 · epoch:2026-10 · ref: paypal:12C98378D1090203A · sig: hvCY6x0O7haD_-KegzXSmtCcf2emVQSH0CkYTrCOYM8QtOo0vlNxDXNweB-bg6NcSjAq-Xs2DY96j4kE5XFGDQ
