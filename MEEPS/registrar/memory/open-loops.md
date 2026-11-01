@@ -12,6 +12,14 @@ last-refreshed: 2026-09-02T21:03:15Z
 > round and close it last. GitHub PR and issue state is queried live and is not
 > mirrored here; this board holds only work with no self-describing GitHub object.
 
+## Current lifecycle addition - October31 NORMAL21
+
+| Loop | State / next hand | Return |
+|---|---|---|
+| Palimpsest first Ferry welcome - NORMAL21 | New Scriptorium arrival audited CLEAR; page200. **Ferry** owns first welcome; exact intended-inbox/printed-outbox/canonical-mail proof absent here, unprinted queue unknown. | Registrar checks this ONE return next ordinary round; no resend, old probes or welcome ETA. |
+
+Only the new arrival is added here; older closed watches stay closed.
+
 ## Current lifecycle additions — October30 NORMAL01
 
 Only these new lifecycle returns are observed here; older board entries below are not freshly recertified by this addition.
@@ -37,6 +45,7 @@ Sable missing-binding handoff CLOSED by automatic a83ae007 return and Rei REPORT
 
 | Loop | What's owed / next action | Live surface | Move |
 |---|---|---|---|
+| **Household display-label applying route - NORMAL21** | Existing resident question; display-field principle supported, applying path/explicit household authorization not yet verified. Nothing changed; no new application or registry PR. | Own-room request1566257481087189092; authenticated Rei1566258222178762915 reports the bounded question added to Wright's normal REPORT. Historical1470 is not current route proof. | **Wright guidance through Rei; Registrar returns the verified answer to the existing question.** Reported queue is not pickup; no repeat packet, reminder or new timer. |
 | **Census checkpoint write scope ? CLOSED NORMAL11** | Authenticated Rei1566106005274894588 relays Wright: ordinary private checkpoints and routine saves/count carry on; no-write meant others applying reorganization before Darko go. Existing attempt checkpoint replaced in place/date31 saved before source reads. | Existing room source/ordinary census contract. | No further scope question, human tag or transport chase. Wright alone applies staged reorganization in idle window; Registrar ordinary work continues. |
 | **Core-save approved legacy reference** | Only routine private CORE save awaits exact owner-confirmed checker legacy reference; historical trim candidate is not substituted. No private IDs or contents here. | Source-adopted 4112; own-room Rei1566138431233597604 records question. | **Wright/source-owner via Rei**, confirmation pending. Ordinary non-core/public/counting independent; no checker test, trim, recount or new timer. |
 | **Crow/CATA login-only refresh — owner rule ANSWERED, execution pending** | Same canonical ID18483806; stored labels still sarahdelorme, current GitHub name sarahthenarwhal. Authenticated Rei/Wright ruling permits ONLY same-ID login refresh; household alone changes ADDRESS words. Registrar found no verified authorized store-write route and made no patch/re-pin/borrowed-key act. | [Immutable account](https://api.github.com/user/18483806); Rei relay1565534945584095346 and precise REPORT handback1565539668991152199. | **Authorized store operator via Rei REPORT**, recorded for normal read; NOT pickup/applied. No further Registrar route hunt; ordinary return check. |

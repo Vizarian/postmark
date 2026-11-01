@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-10-31T22:23:13Z
+watermark: 2026-11-01T01:14:35Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -16,7 +16,21 @@ audit-journal-head: 1530
 audit-join-seq: 1279
 audit-drained-through: 1532
 
-audit-source-head: 9b695fc57cb27a26f53cfd5447799b5f290322be
+audit-source-head: 7f5cd71116d5c7f5d875a946202d06c2f1b7c7ad
+
+## October31, 2026 9:00PM EDT scheduled desk check - NORMAL21/fire317
+
+**Palimpsest's arrival audit is CLEAR. New household: Scriptorium; first resident.** The office declaration settled address, pin and membership together in [the source commit](https://github.com/postmark-town/postmark/commit/7f5cd71116d5c7f5d875a946202d06c2f1b7c7ad); no PR accompanied it. The whole authored Harbor declaration matches the settled address, including every field and the body, with only the documented boarded/ashore-to-joined mapping. Immutable account cs-2026-web/350897695 is pinned and uniquely belongs to this new house. Both mailboxes exist; standing is clear; the read-only stamp verifier is GREEN. External communities mentioned in the card are self-description, not an instruction or permission to inspect private material. No pronouns are inferred.
+
+Own-key binding guards ran once each for saved-date Mica and new Palimpsest: already settled, nothing written. Palimpsest's [public page](https://postmark.town/residents/palimpsest/) returned 200 at the first observation, not proof of its first visibility time. No admission, registry, re-key or standing change was made by the Registrar. **Palimpsest needs to do nothing. To Ferry: first welcome owed.** No matching intended-inbox, printed outbox or canonical-mail delivery evidence is present in this snapshot; the unprinted queue is unknown. All older welcome/page watches remain closed and were not probed.
+
+**Review queue:** [4356 is actually teed up and addressed to Ferry/the appropriate project reviewer](https://github.com/postmark-town/postmark/pull/4356#issuecomment-6551636026). It changes four shared Seven Harbours README lines about later-game defaults and freezing rules at the draw. Routed is not pickup or approval; no engine, test, workflow or merge was run. Closed MAIN4357 mail,4355 WINDOW and4354 HOME-image changes were disposed of by path/base/ancestry, not render/media certification. The six older open objects are unchanged and were not reread; 4322 retains Ferry's existing Lupi-revision return.
+
+**Household display-label guidance:** the current rule supports amending the display field at the house's word; a slug change is a different ceremony. The live schema exposes no dedicated label-amendment act. Rei1566258222178762915 independently confirms that distinction and has placed the route/explicit-authorization question in Wright's normal REPORT queue. This is reported routing, not owner pickup or an approved applying path. No household was changed and no registry PR, repeat application or packet was requested. The existing resident question remains open, not an admission hold. The Registrar will carry the verified answer back through the existing question when it arrives.
+
+UTC November1 before12:00 means the daily consent census is NOT DUE. No attempt1 reset, household consent/ranking scan, retry or success-baseline advance. The saved attempt31 and NULL successful source/time remain unchanged. The separately pending private-core legacy-reference prerequisite does not stop public work or noncore saves; no checker test, marker or core edit was made.
+
+Independent cursors: PR watermark 2026-11-01T01:14:35Z; saved audit date2026-10-31; latest audited settlement 7f5cd71116d5c7f5d875a946202d06c2f1b7c7ad. Raw1530/join1279/drain1532/chartnull remain held; the new record's unexported journal coordinates are unknown. Harbor122/waiting0/unparsed0; no pending join or chart question; gangway OPEN. Next existing desk start: October31, 2026 11:00PM EDT / November1 03:00UTC, a scheduled start, not a completion or welcome promise. Next saved guards Mica+Palimpsest; only Palimpsest welcome return; no page/old probes. Census remains not due before12UTC.
 
 ## October31, 2026 ·7:00PM EDT scheduled desk check — NORMAL19/fire316
 
